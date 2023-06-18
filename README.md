@@ -1,0 +1,3 @@
+Trying to find a good data for security incidents to understand where adversaries are succeeding. Tried using this datasest https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents
+
+Tried to convert this into a structured format. Likely not perfect. It also lacks the level of technical detail I'm looking for. Posting it here in case anyone wants to build on top of it.

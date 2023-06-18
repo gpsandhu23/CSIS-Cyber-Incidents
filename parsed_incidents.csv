@@ -1,0 +1,1013 @@
+,adversary,target,technique,publish date,motive,interesting_insight
+0,China-sponsored hackers,a prominent politician,spearfishing attack,May 2023,European governments are increasingly willing to challenge China over cyber offences,Belgium’s cyber security agency has linked the attack to China-sponsored hackers
+1,Chinese hackers,communications networks at a U.S. outpost in Guam,used legitimate credentials,May 2023,,making it harder to detect them
+2,Chinese hackers,"Kenyan government ministries and state institutions, including the presidential office",Hacking,May 2023,gaining information on debt owed to Beijing,
+3,likely Russia state group,government organizations in Central Asia,previously unknown malware,May 2023,document exfiltration,
+4,An unidentified group,targets in both Russia and Ukraine,Unknown,May 2023,surveillance and data gathering,Unknown
+5,Russian-linked hackivist,Ukraine’s system for managing border crossings by commercial trucks,phishing campaign,May 2023,Unknown,The attack was unsuccessful
+6,Sudan-linked hackers,Israeli Supreme Court’s website,DDoS attack,April 2023,religiously motivated,"The group has been active since at least January 2023, attacking critical infrastructure in Northern Europe"
+7,Russian,Ukraine and other European countries who have provided Ukraine with humanitarian aid during the war in Ukraine,ransomware and supply chain attacks,April 2023,war in Ukraine,There were no indications of these attacks against U.S. networks
+8,Iranian state-linked hackers,critical infrastructure in the U.S. and other countries,previously unseen customized dropper malware,April 2023,support the Iranian government’s interests,"The hacking group has been active since at least 2014, conducting social engineering and espionage operations"
+9,Chinese-language hackers,South Korean research and academic institutions,data exfiltration attacks,January 2023,patriotism for China,Recorded Future released a report in April 2023 revealing these attacks
+10,North Korea-linked hackers,3CX Desktop App software,software supply chain attack,April 2023,Unknown,This is Mandiant’s first discovery of a software supply chain attack leveraging vulnerabilities from a previous software supply chain attack.
+11,Chinese hackers,telecommunication services providers in Africa,"gathers information including keystrokes, browser data, records audio, and captures data from individual targets on the network",April 2023,espionage campaign,"the group has targeted pro-domestic human rights and pro-democracy advocates, including nation-states, since at least 2014"
+12,A Russia-linked threat group,Canadian prime Minister Justin Trudeau,DDoS attack,April 2023,retaliation,The operation’s timing coincided with the Canadian government’s meeting with Ukrainian Prime Minister Denys Shmyhal
+13,North Korea-linked hackers,defense industry firms in Eastern Europe and Africa,espionage,April 2023,espionage,The hacking group shifted its focus in 2020 from financially motivated coin-mining attacks to espionage
+14,Unknown,"iPhones of over 5 journalists, political opposition figures, and an NGO worker",malicious calendar invitations,April 2023,Unclear,Researchers discovered Israeli spyware
+15,Ukraine-linked hacktivists,"email of Russian GRU Unit26165’s leader, Lieutenant Colonel Sergey Alexandrovich",leaking his correspondence to a volunteer intelligence analysis group,April 2023,Unknown,"The exfiltrated data contained Alexandrovich’s personal information, unit personnel files, and information on Russian cyberattack tools"
+16,North Korean-linked hackers,people with expertise on North Korea policy issues,phishing campaign,April 2023,Unknown,Hackers posed as journalists requesting interviews from targets
+17,Russian hackers,French National Assembly’s website,DDoS attack,March 2023,French government’s support for Ukraine,The attack was announced in a Telegram post
+18,Vietnamese espionage group,U.S. federal agency,Used a vulnerability in the agency’s Microsoft Internet Information Services (IIS) server to install malware,March 2023,Cyberespionage,Multiple attackers were involved in the attack
+19,A Chinese cyberespionage group,an East Asian data protection company who serves military and government entities,Unknown,March 2023,Unknown,The attack lasted approximately a year
+20,A South Asian hacking group,firms in China’s nuclear energy industry,espionage campaign,March 2023,espionage,"Researchers believe the group commonly targets the energy and government sectors of Pakistan, China, Bangladesh, and Saudi Arabia."
+21,Unknown,Estonia's internet voting system,Unknown,March 2023,Unknown,The attack was unsuccessful
+22,North Korean hackers,U.S.-based cybersecurity research firms,phishing campaign,March 2023,deliver malware for cyberespionage,
+23,A Chinese cyber espionage group,"government entities in Vietnam, Thailand, and Indonesia",using newly developed malware optimized to evade detection,March 2023,espionage,The malware used was newly developed and optimized to evade detection
+24,Russian hackers,"U.S. and European politicians, businesspeople, and celebrities",social engineering campaigns,March 2023,to obtain pro-Putin or pro-Russian soundbites and discredit victims’ previous anti-Putin statements,The targets were individuals who have publicly denounced Vladimir Putin’s invasion of Ukraine
+25,Chinese espionage group,political organizations in Taiwan and Ukraine,new exploit,March 2023,espionage,The exploit was discovered by Slovakian cybersecurity researchers
+26,Russia hackers,official tax service website of Poland,DDoS attack,March 2023,Not explicitly mentioned,"Hackers blocked users’ access to the site for approximately an hour, but no data was leaked in the attack. A pro-Russian hacking group had earlier published a statement on Telegram about its intention to attack the Polish tax service."
+27,Russian hackers,Ukrainian organizations,phishing campaign,February 2023,steal information,"The malware is capable of extracting account information and files, as well as taking screenshots. Researchers believe the group is a key player in Russia’s cyber campaigns against Ukraine."
+28,A pro-Russian hacking group,NATO networks,DDoS attacks,February 2023,Disrupt communications between NATO and airplanes providing earthquake aid to a Turkish airbase,The attack also took NATO’s sites offline temporarily
+29,Russia-linked hackers,Polish public,Disinformation campaign via email,February 2023,Spread anti-Ukrainian refugee disinformation,Polish officials reported the campaign
+30,A North Korean hacking group,"medical research, healthcare, defense, energy, chemical engineering and a research university",espionage campaign,between August and November 2022,exfiltrating over 100MB of data from each victim,The group is linked to the North Korean government
+31,Russian hackers,Latvian Ministry of Defense,phishing campaign,February 2023,Unknown,The operation was unsuccessful
+32,Iranian hacktivists,state-run television broadcast of a speech by Iranian president Ebrahim Raisi,disruption,February 2023,encouraged citizens to join antigovernment protests,Hackers aired the slogan 'Death to Khamenei'
+33,An Iranian hacking group,organizations in the Middle East,backdoor malware,February 2023,espionage campaign,the hacking group is linked to Iranian intelligence services
+34,Iranian hacktivists,websites for the Bahrain international airport and state news agency,taking down websites,February 2023,Unknown,Unknown
+35,Iranian state-sponsored hackers,"Technion University, Israel’s top technology education program",ransomware attack,February 2023,Hackers demanded 80 bitcoin ($1.7 million USD) to decrypt the university’s files,Israeli cybersecurity officials blamed Iranian state-sponsored hackers for the attack
+36,Unknown,Italy’s Revenue Agency (Agenzia delle Entrane) website,Phishing,February 2023,Unknown,"While the website was disabled, users received phishing emails directing them to a false login page that mirrored the official agency site."
+37,Chinese cyberespionage hackers,government and public sector organizations in Asia and Europe,spear-phishing campaign,February 2023,cyberespionage,The emails used a draft EU Commission letter as its initial attack vector. These campaigns have occurred since at least 2019.
+38,Russia-linked hackers,Latvian Ministry of Defense,cyber espionage phishing campaign,January 2023,espionage,The operation was unsuccessful
+39,Unknown,Federal civilian executive branch,Utilizing remote access software,October 2022,Financially motivated,Phishing campaign against multiple U.S. federal civilian executive branch agencies
+40,Russia-linked hackers,"UK postal service, the Royal Mail",ransomware attack,January 2023,disrupted the systems used to track international mail,
+41,Iran-linked hackers,U.S. public infrastructure and private Australian organizations,ransomware attacks and data exfiltration,January 2023,extortion campaigns,Australian authorities claim that the data exfiltrated was for use in extortion campaigns
+42,Unknown,Costa Rica’s Ministry of Public Works,Ransomware,January 2023,Unknown,The attack knocked all its servers offline
+43,Iran-linked hackers,Albanian government servers,cyber-attacks,January 2023,Unknown,The servers were still near-daily targets following a major attack in 2022
+44,Unknown,Malaysian national defense networks,Unknown,January 2023,Unknown,Malaysian officials detected the hacking activities early enough to prevent any network compromise
+45,Unknown,"Government, military, and civilian networks across the Asia Pacific",Malware,January 2023,Obtain confidential information,The malware targeted both the data on victim machines as well as audio captured by infected machines’ microphones
+46,Unknown,Moldovan government accounts,Emails containing malicious links,January 2023,Unknown,Over a thousand emails were sent
+47,China-linked hackers,"government, education, and research sector victims across the Asia Pacific",phishing attacks,December 2022,espionage,These attacks contained malware designed for espionage
+48,Unknown,Ukranian government agencies and state railway systems,Email phishing attacks,December 2022,Espionage,The emails included information on kamikaze drone identification and deployed malware designed for espionage onto victim machines
+49,Unknown,"FBI threat information sharing program, InfraGard",Unknown,December 2022,To sell the obtained information,"The hackers obtained contact information for more than 80,000 members and posted it for sale on a cybercrime forum"
+50,Sandworm,Ukranian critical infrastructure,Unknown,December 2022,Unknown,These attacks were accompanied by pro-Russian propaganda
+51,Iran-linked hackers,"human rights activists, journalists, diplomats, and politicians located across the Middle East","cyber espionage, social engineering, and phishing",December 2022,espionage,"The Human Rights Watch reported an ongoing, well-resourced campaign"
+52,Unknown,Italy’s Ministry of Agriculture website,DDoS attack,December 2022,Demonstrative,No data was breached and no lasting damage is expected
+53,Russia-linked hackers,"healthcare organizations, businesses, and critical infrastructures across the U.S., UK, France, and other countries",leveraged the networks,December 2022,information stealing and disruption,The attacks were primarily targeted at Ukraine
+54,Iran-linked hackers,government ministries in Saudi Arabia,obtained and leaked data,December 2022,,
+55,Russia-linked hackers,Vatican City servers,DDoS attack,December 2022,Russian government officials criticized Pope Francis for his comments about the war in Ukraine,The attack knocked the official Vatican City website offline
+56,Unknown,Danish defense ministry,DDoS attack,December 2022,Disrupt access to its websites,Unknown
+57,"external intelligence agencies, IT companies, and hacktivists",Russia’s foreign minister,coordinated cyber aggression,December 2022,Unknown,"According to Russian officials, such attacks have “doubled or tripled” over the past year"
+58,Chinese government-linked hackers,U.S. government,Unknown,December 2022,steal COVID-19 relief funds,The U.S. Secret Service announced they retrieved half of the stolen funds thus far
+59,Chinese-linked hackers,Amnesty International of Canada,Unknown,December 2022,Espionage operation,Unknown
+60,Unknown,U.S. government employees,Spyware hacks,December 2022,Unknown,"A U.S. lawmaker predicted the number of hacks could be in the hundreds, including diplomats in multiple countries."
+61,Unknown,Indian hospital,Cutting off access to online networks and patient records,November 2022,Disruption of operations,It took hospital officials and federal authorities nearly two weeks to regain access to hospital servers and recover lost data
+62,Russian GRU hacking group,energy sector and logistics industries in Ukraine and Poland,cyberattacks,November 2022,Unknown,The campaign began in late September 2022
+63,Unknown,Bahraini government websites,DDoS attacks,November 2022,Prior the country’s parliamentary and local elections,Unknown
+64,Iranian government-sponsored hackers,U.S. Merit Systems,,November 2022,,
+65,Unknown,Protection Board,log4shell vulnerability,February 2022,To install cryptocurrency-mining software and obtain sensitive data,The hackers deployed malware after breaching the network
+66,Unknown,Danish State Railways’ network,Targeting an IT subcontractor's software testing environment,November 2022,Unknown,The attack shut down train operations for several hours
+67,An Indian-based hacking group,"Pakistani politicians, generals and diplomats",deploying malware that enables the attacker access to computer cameras and microphones,November 2022,,
+68,State-sponsored hackers with possible ties to the Chinese government,Multiple Asian countries,Compromising a digital certificate authority,March 2022 - November 2022,Espionage operation,The hackers targeted a digital certificate authority in one country
+69,Unknown,Vanuatu government,Ransomware attack,November 2022,Unknown,"The attack affected all government services, disabling emails, websites, and government systems, with only partial access restored a month later."
+70,Unknown,Guadeloupe government,Unknown,November 2022,Unknown,The attack forced the shutdown of all government computers to protect data during incident response and detect the scope of the attack.
+71,Indian hackers,"Pakistani government entities, including the military, and companies",The attacks enabled hackers to infiltrate systems and access computer controls,November 2022,Unknown,The attacks have been ongoing since April 2020
+72,Suspected Chinese-linked hackers,"public and private organizations in the Philippines, Europe, and the United States",infected USB drives to deliver malware,November 2022,espionage campaign,The attacks have been ongoing since 2021
+73,Chinese state-affiliated actors,smaller nations in Southeast Asia,cyberespionage,November 2022,espionage,Chinese state-affiliated actors increased attacks on smaller nations
+74,Unknown,A communications platform in Australia handling Department of Defence data,Ransomware attack,October 2022,Breach sensitive government data,The government believes hackers breached sensitive government data in this attack
+75,anti-Putin group in Russia,Russian defense contractors,hacking,October 2022,political opposition to Putin,The hacked data was published in a Ukrainian newspaper
+76,A pro-Russian hacking group,"Bulgarian websites belonging to the presidential administration, the Defense Ministry, the Interior Ministry, the Justice Ministry, and the Constitutional Court",DDoS attack,October 2022,punishment “for betrayal to Russia and the supply of weapons to Ukraine”,
+77,A pro-Russian hacking group,several major U.S. airports,DDoS attack,October 2022,Unknown,The attack impacted the airports' websites
+78,Pro-Russian hackers,"U.S. state government websites (Colorado, Kentucky, Mississippi)",Unknown,October 2022,Unknown,The attack knocked the websites offline
+79,state-sponsored hacking groups,a defense company,long-term access,October 2022,compromised sensitive company data,The hacking groups had access since January 2021
+80,Iranian hackers,Albanian computer systems,Ransomware,September 2022,"Albania’s decision to sever diplomatic ties with Iran, American sanctions and NATO’s condemnation of an Iranian cyberattack","The attack forced Albanian officials to temporarily shut down the Total Information Management System, a service used to track individuals entering and exiting Albania"
+81,A newly discovered hacking group,"telecommunications, internet service providers, and universities in the Middle East and Africa","deploys malware platforms directly into systems’ memory, bypassing native security solutions",September 2022,,
+82,Unknown,Montenegro’s government networks,Unknown,September 2022,Unknown,Montenegrin officials blamed Russia for the attack
+83,Unknown,state-level parliamentary website of Bosnia and Herzegovina,Unknown,September 2022,Unknown,The attack rendered the sites and servers inaccessible for multiple weeks
+84,U.S. National Security Agency (NSA),China’s Northwestern Polytechnical University,stole user data and infiltrated digital communications networks,September 2022,Unknown,China accused the NSA of numerous cyberattacks
+85,Anonymous,Iranian government,cyberattacks,September 2022,Unknown,The attack took down two main Iranian government websites and the websites of several state media organizations
+86,Unknown,Mexican Defense Ministry,Unknown,September 2022,Unknown,"The hackers accessed six terabytes of data, including internal communications, criminal data, and data that revealed Mexico’s monitoring of Ken Salazar, the U.S. Ambassador to Mexico. Mexican President Andres Manuel Lopez Obrador confirmed the authenticity of the data, including personal health data released to the public."
+87,A Russian-based hacking group,the website of the United Kingdom’s intelligence agency MI5,a DDoS attack,September 2022,temporarily took the site offline,
+88,Unknown,Gestore dei Servizi Energetici (GSE),Unknown,August 2022,Unknown,Unknown
+89,foreign hackers,website of Taiwan’s presidential office,DDoS attack,August 2022,not specified,normal operations of the website resumed after 20 minutes
+90,hackers,Taiwan’s Foreign Ministry website and the main portal website for Taiwan’s government,not specified,August 2022,not specified,not specified
+91,A Russian group,the Finnish Parliament,DDoS attack,August 2022,Unknown,The attack rendered the Parliamentary website inaccessible
+92,Russian hackers,website of Ukraine’s state energy agency,Unknown,August 2022,Unknown,The agency is responsible for the oversight of Ukraine’s nuclear power plants
+93,A Russian hacking group,the website of the Latvian Parliament,DDoS attack,August 2022,Unknown,The attack temporarily paralyzed the website’s server
+94,Unknown,Greece’s largest natural gas distributor DESFA,Unknown,August 2022,Unknown,The attack caused a system outage and data exposure
+95,A Russian group,South Staffordshire Water,breaching and leaking files,August 2022,extortion attempt,The target was a privately owned UK water supply company
+96,Unknown,Montenegro’s government institutions,Unknown,August 2022,Unknown,There was sufficient evidence to suspect Russia was behind the attack
+97,Unknown,websites of both government and private Estonian institutions,DDoS campaign,August 2022,Unknown,"Estonia stated that the attack was largely repelled, and the impact was limited."
+98,Chinese hacking group,government institutions and defense firms throughout Eastern Europe,phishing emails to deploy malware,January 2022,Unknown,A report by Russian-based company Kaspersky linked the campaign to a Chinese hacking group
+99,Indian-linked hackers,Pakistan Air Force (PAF),spearfishing campaign,July 2022,to deploy malware and obtain sensitive files,Pakistani and Chinese organizations claimed the attack
+100,Unknown,Iran’s Islamic Culture and Communication Organization (ICCO),Unknown,July 2022,Unknown,"The attack took down at least 6 websites, placed images of Iranian resistance leaders on fifteen additional sites, wiped databases and computers, and allowed hackers to obtain access to sensitive ICCO data."
+101,Unknown,Shanghai police,Unknown,July 2022,Unknown,The hacker claimed to acquire records on 1 billion Chinese
+102,Unknown,Database,Unknown,Unknown,Financial gain,The hacked data was posted for sale online
+103,China,Belgium’s Ministries of Interior and Defense,cyberespionage,July 2022,Unknown,A spokesperson for the Chinese Embassy in Belgium denied the accusations
+104,Unknown,Social media accounts owned by the British Royal Army,Account takeover,July 2022,Unknown,The attack included the takeover of the British Army’s Twitter and YouTube accounts
+105,Killnet,Lithuania’s state-owned energy provider,DDoS attack,July 2022,Unknown,Lithuanian officials link Killnet to Russia
+106,Unknown,"Websites belonging to the Albanian Prime Minister's Office, the Parliament, and the e-Albania portal",Unknown,July 2022,Unknown,The e-Albania portal is used to access public services
+107,Unknown,Ukrainian media company,Breach,July 2022,To broadcast false information about Ukrainian President Volodymyr Zelenskyy,President Zelenskyy blamed Russia for the attack
+108,National Security Agency (NSA)'s Office of Tailored Access Operations (TAO),China,Stealing global internet data and telephone data,June 2022,Unknown,United States stole 97 billion pieces of global internet data and 124 billion pieces of telephone data
+109,A Russian-backed hacking group,"Lithuania’s state railway, airports, media companies, and government ministries",DDoS attacks,June 2022,Unknown,Unknown
+110,Chinese state-sponsored hackers,major telecommunications companies and network service providers,Unknown,June 2022,Unknown,The attack has been ongoing since at least 2020
+111,Iranian-linked actors,"former Israeli officials, military personnel, and a former U.S. Ambassador to Israel",phishing campaign,June 2022,"to gain access to the targets’ inboxes, personally identifiable information, and identity documents",An Israeli cybersecurity firm discovered the attack
+112,Unknown,Three Iranian steel companies,Unknown,June 2022,Unknown,The attack forced the country’s state-owned plant to halt production
+113,Unknown,Chinese government,Leaking files and photos,June 2022,Displaying human rights abuses committed by the Chinese government against the Uyghur population,The leaked files and photos are known as 'The Xinjiang Police Files'
+114,Unknown,"Users of Australia’s largest Chinese-language platform, Media Today",Password reset attempts,June 2022,Unknown,The hackers made over 20 million attempts to reset user passwords in the platform’s registration system
+115,Unknown,municipal public address systems in Jerusalem and Eliat,Unknown,June 2022,Unknown,Unknown
+116,Iran,air raid sirens systems throughout both cities,Unknown,Unknown,Unknown,An Israeli industrial cybersecurity firm attributed the attack to Iran
+117,Chinese-linked disinformation campaign,Australian mining company,spreading disinformation on social media platforms and websites,June 2022,discredit the company’s alleged environmental record,
+118,Unknown,"U.S. organizations in military, software, supply chain, healthcare, and pharmaceutical sectors",Phishing campaign,June 2022,Compromise Microsoft Office 365 and Outlook accounts,Unknown
+119,Unknown,Officials in Germany’s Greens party,Compromising accounts,June 2022,Unknown,"The compromised accounts included ones used previously by Annalena Baerbock and Robert Habeck, who now serve as Minister for Foreign Affairs and Minister for Economic Affairs and Climate Action."
+120,pro-Russian hackers,Norwegian public institutions,DDoS attacks,June 2022,disrupting government websites,The Norwegian NSM security authority attributed the attack to pro-Russian hackers
+121,A group linked to Iran,Port of London Authority,DDoS attack,May 2022,Unknown,The attack forced the Port of London Authority's website to go offline
+122,Iranian cyber espionage actor,Jordan Ministry of Foreign Affairs,phishing campaign,May 2022,espionage,
+123,Unknown,Grand Ethiopian Renaissance Dam (GERD),Unknown,May 2022,Unknown,Ethiopia’s communications security agency thwarted the attacks before hackers could gain access to the networks.
+124,Unknown,Greenland’s healthcare system,Unknown,May 2022,Unknown,"The attack did not damage or expose citizens’ data, but it made health services severely limited."
+125,A Chinese hacking group,U.S and European companies,Unknown,May 2022,steal intellectual property assets,The group went largely undetected since 2019 and is believed to be backed by the Chinese government
+126,State-sponsored hackers,RuTube,Unknown,May 2022,Unknown,RuTube is the Russian version of YouTube
+127,Russian hackers,"Italian websites including the Senate, the Ministry of Defence, and the National Health Institute",DDoS attack,May 2022,to target NATO countries and Ukraine,
+128,Unknown,"Ministry of Defense, Border Police, National Railway Company, OTP Bank",DDoS attacks,April 2022,Unknown,Multiple public and private sector websites were targeted
+129,Unknown,Websites in Romania,Unknown,Unknown,Romania's support for Ukraine during the Russian invasion,The hacker group communicated their actions and motives via Telegram
+130,Russian-linked hackers,"diplomats and embassy officials from France, Poland, Portugal, and other countries",phishing email to deliver a malware-laden file,April 2022,Unknown,The campaign started in January
+131,Unknown,More than 100 public sector agencies in Iran,Cyber intrusions,April 2022,Unknown,The Iranian government claimed to have foiled the cyber intrusions
+132,Russian hackers,Costa Rican Ministry of Finance,cyberattack,April 2022,asked for $20 million in ransom or plans to leak the stolen data,"The attack crippled tax collection and export systems, leading to a national emergency declaration by the newly elected President of Costa Rica"
+133,NSO Group,members of the European Commission,spyware,April 2022,Unknown,An Apple notification from November to thousands of iPhone users stating they were targeted by state-sponsored actor alerted the Commission of this spyware use.
+134,North Korea-linked hacking campaign,chemical companies in South Korea,phishing emails sent from fake job recruiters,April 2022,,
+135,NSO Group,65 Catalonian activists and political figures,spyware,April 2022,Unknown,The attack was discovered through a Citizen Lab study
+136,North Korean hacking group,Ronin Network,Unknown,April 2022,Stealing Ethereum and USDC,The U.S. Treasury Department’s Office of Foreign Assets Control announced sanctions against the hackers
+137,Unknown,websites belonging to the Finnish Ministries of Defence and Foreign Affairs,DDoS attacks,April 2022,Unknown,The attack’s botnet used over 350 IP addresses from around the world and the denial of service was sustained for four hours
+138,Unknown,Telegram accounts of Ukrainian government officials,Phishing attack,April 2022,Gain access to the accounts,Unknown
+139,PLA-linked hackers,7 Indian State Load Dispatch Centres (SLDCs),Unknown,April 2022,Unknown,The SLDCs manage SCADA systems
+140,Iranian-linked cyber espionage campaigns,"activists, academics, and private companies in the energy, semiconductor, and telecom sectors",phishing and other social engineering techniques,April 2022,espionage,"The campaign targeted businesses in countries including the U.S., Israel, Russia, and Canada"
+141,A group with connections to the Russian GRU,Ukrainian media organizations,Attempt to gain long-term access to their networks and collect sensitive information,April 2022,Collect sensitive information,The group has connections to the Russian GRU
+142,Russian GRU,computer networks around the world,malware,April 2022,"unclear, could be used for anything from surveillance to destructive attacks","The United States removed the malware, a move made public by Attorney General Merrick B. Garland"
+143,group with ties to the Russian GRU,Ukrainian energy facility,updated form of the same malware,April 2022,shutdown electrical substations in Ukraine,The attack was largely thwarted by CERT-UA and private sector assistance
+144,Unknown,Ukraine’s National Post Office,DDoS attack,April 2022,Unknown,"The attack happened days after the release of a new stamp honoring a Ukrainian border guard, affecting the agency's ability to run their online store."
+145,Unknown,National Telecommunications Authority of the Marshall Islands,DDoS attack,March 2022,Unknown,The attack disrupted internet services on the Islands for over a week.
+146,Unknown,Satellite broadband service run by Viasat,Hacked satellite modems,March 2022,"Disrupt internet services across Europe, including Ukrainian military communications",The attack disrupted the company’s service and affected thousands of Europeans
+147,Unknown,"Websites of multiple Russian agencies including the Energy Ministry, the Federal State Statistics Service, the Federal Penitentiary Service, and the Federal Bailiff Service",Unknown,March 2022,Anti-government and anti-invasion protest,The websites displayed several anti-government and anti-invasion images and messages before the agencies were able to expel the attackers
+148,Unknown,Greenland’s parliamentary authority,Unknown,March 2022,Espionage,The attack forced the parliament to cancel meetings and slowed social benefit payments
+149,hackers from the United States,Chinese computers,Unknown,March 2022,"carry out attacks on Russia, Ukraine, and Belarus",The National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC) stated
+150,Chinese government-backed actor,The European Banking Authority,exploiting a vulnerability in Microsoft’s mail server software,March 2022,Unknown,No data was compromised
+151,Unknown,"Russian government and state media websites, Emergency Situations Ministry website, Tass news agency","Defacement, Disruption",March 2022,"Encouraging Russian soldiers to defect, Calling for people to protest against the war",The hackers were able to penetrate and disrupt several high-profile Russian websites
+152,Unknown,"The National Research Council, Canada",Unknown,March 2022,Unknown,Parts of the Council's online presence were taken offline as a result of the incident
+153,Hackers linked to the Chinese government,networks belonging to government agencies of at least 6 different U.S. states,Log4j vulnerability,March 2022,espionage operation,Hackers also exploited several other vulnerable internet-facing web applications
+154,Unknown,Major Israeli telecommunication provider,DDoS attack,March 2022,Unknown,Multiple Israeli government websites were taken offline
+155,two North Korean government-backed groups,"employees across numerous media, fintech, and software companies",phishing emails advertising fake job opportunities and exploited a vulnerability in Google Chrome,February 2022,to compromise the companies’ websites and spread malware,The hackers used a vulnerability in Google Chrome to spread malware
+156,Unknown,"Websites of the Ukrainian Cabinet of Ministers and Ministries of Foreign Affairs, Infrastructure, and Education; networks of one Ukrainian financial institution and two government contractors",Wiper malware,February 2022,Preceding the invasion of Ukraine by Russian troops,The attack disrupted the websites in the days before the invasion
+157,U.S. National Security Agency,companies and governments in over 45 countries,engineering a backdoor,February 2022,monitor companies and governments,operations like this may threaten the security of China’s critical infrastructure and compromise trade secrets
+158,Russian GRU,websites belonging to the Ukrainian Defense Ministry and two of the country’s largest banks,DDoS attack,February 2022,Not explicitly mentioned,The attack was connected to another “information attack” where Ukrainian citizens received spam text messages claiming that ATMs were not working
+159,U.S. National Security Agency,companies and governments in over 45 countries,engineering a back-door,February 2022,monitor companies and governments,operations like this may threaten the security of China’s critical infrastructure and compromise trade secrets
+160,A Pakistani group,Indian military and diplomatic targets,"remote access trojan, social engineering, USB- based worms",February 2022,espionage,The group generally uses social engineering and/or USB- based worms to penetrate a network
+161,An Iranian-linked group,a range of private companies and local and federal governments,espionage and other malicious cyber operations,February 2022,Unknown,Unknown
+162,Russian state-sponsored actors,U.S. defense contractors,Hacking,January 2020 and February 2022,Exfiltration of emails and sensitive data,The attack lasted for over two years
+163,a Russian-speaking hacking group,Multiple oil terminals in some of Europe’s biggest ports across Belgium and Germany,ransomware strain,February 2022,disrupt the ability of energy companies to process payments,rendering them unable to process incoming barges
+164,cyber arm of Hamas,Palestinian individuals and organizations,malware,October 2021 to February 2022,Unknown,Researchers suggest that the operation could be connected to a broader campaign that started in 2017
+165,North Korea hackers,three cryptocurrency exchanges,Unknown,February 2022,to help fund their nuclear program in the face of a significant sanctions regime,North Korea hackers stole more than $50 million between 2020 and mid-2021
+166,hackers linked to the Chinese government,email accounts belonging to Wall Street Journal journalists,surveilled and exfiltrated data,February 2022,not specified,The hackers allegedly surveilled and exfiltrated data from the newspaper for over two years beginning in at least February 2020.
+167,Unknown,The networks of the U.K. Foreign Office,Unknown,February 2022,Unknown,All details of the incident remain confidential
+168,A Chinese hacking group,German pharma and tech firms,hack into the networks of service providers and companies,January 2022,to steal intellectual property,According to the German government
+169,Unknown,Internet traffic to and from North Korea,DDoS attacks,January 2022,Unknown,The second attack came just after North Korea’s 5th missile test of the month
+170,Unknown,Canadian Foreign Ministry,Unknown,January 2022,Anticipation of Russia-based cyberattacks on critical infrastructure,The hack came a day after the government issued a warning to bolster network security
+171,Unknown,Andorra Telecom,DDoS attacks,January 2022,Disrupt a high-stakes Minecraft tournament,The attack disrupted 4G and internet services for customers
+172,Unknown,60 parliamentary email accounts of the Greek Parliament,Unknown,January 2022,Unknown,"In response to the hacking attempt, authorities temporarily shut down the mailing system in the legislature."
+173,WeChat,Prime Minister Scott,,January 2022,,
+174,Unknown,Morrison’s account,Redirecting users to a different website,mid-2021,Provide information for Chinese expatriates,The Government encountered problems posting to the Prime Minister’s account
+175,Unknown,International Committee of the Red Cross,Unknown,January 2022,Unknown,The operation may be linked to a sprawling influence operation based in Iran
+176,Unknown,Ukrainian government,Malicious software masquerading as ransomware,January 2022,Unknown,The attack hit 90 websites and damaged dozens of computers in government agencies
+177,Unknown,"Israeli media outlets, including Maariv and the Jerusalem Post",Posting threatening messages on their websites,January 2022,Unknown,The hackers posted messages in both English and Hebrew
+178,DRPK-affiliated group,Russian diplomats,Email disguised as a New Year greetings screensaver,January 2022,Unknown,"The email, after being opened, installed a remote access trojan"
+179,Unknown,Belgium Ministry of Defence,Exploiting the Log4j vulnerability,December 2021,Unknown,"The attack forced part of the ministry's computer network, including the mail system, to shut down for several days"
+180,Chinese state-sponsored groups,Southeast Asian governments,custom malware,December 2021,territorial disputes in the South China Sea,Many of the nations targeted are currently engaged in disputes with China over territorial claims in the South China Sea
+181,Unknown,Prime Minster Modi’s Twitter,Unknown,December 2021,To spread misinformation and conduct a bitcoin scam,The hackers tweeted that India officially adopted bitcoin as legal tender
+182,Unknown,Australia’s telecommunications systems,malicious code embedded in a software update,December 2021,Unknown,The intrusion was linked to Huawei
+183,"government-linked hackers from China, Iran, and North Korea",computer networks,Log4j vulnerability,December 2021,to gain access to computer networks,"Following the announcement of Log4j, researchers already found over 600,000 attempts to exploit the vulnerability"
+184,Chinese hackers,U.S. defense and technology firms,obtained passwords,December 2021,intercept sensitive communications,"The hackers breached four more organizations in December, in addition to one in November"
+185,A Russian group,Australian utility company CS energy,ransomware attack,December 2021,Unknown,This announcement came after Australian media outlets blamed
+186,A Russian-speaking group,"personal information of around 3,500 individuals, including government officials, journalists, and human rights activists","obtained access to private email accounts and financial details, and operated malware on Android and Windows devices",November 2021,Unknown,Unknown
+187,Unknown,U.S. defense contractor,Unknown,November 2021,Unknown,Hackers gained access to the social security and driver’s license numbers of employees
+188,foreign intelligence agency,several airlines in China,custom trojan,November 2021,stole passenger information,The officials stated the hacks are connected due to the use of a custom trojan in all the attacks.
+189,Chinese hackers,nine companies and 370 servers,exploiting a publicly shared vulnerability,November 2021,Unknown,The attack was carried out after CISA publicly shared details on a vulnerability
+190,Unknown,A vendor that handles data for the UK Labour Party,Unknown,November 2021,Unknown,The attack affected the data of the UK Labour Party's members and affiliates
+191,Unknown,FBI’s Law Enforcement Enterprise Portal,Unknown,November 2021,Unknown,Hackers sent a warning of a cyberattack in an email claiming to be from the Department of Homeland Security (DHS)
+192,Unknown,Robinhood,Social engineering cyberattack,November 2021,Ransom,"The hacker gained access to personal information of around 7 million customers, including names, email addresses, and for some, data of birth, and zip codes."
+193,A Chinese-linked hacking group,telecommunication carriers across the globe,cyberattacks,October 2021,gained access to calling records and text messages,The group began its cyberattacks in 2016 and infiltrated at least 13 telecommunications networks
+194,Unknown,Government-issued electronic cards Iranians use to buy subsidized fuel and electronic billboards,Cyberattack,October 2021,Display anti-regime messages against the Supreme Leader Ayatollah Ali Khamenei,The attack altered the text of electronic billboards
+195,A group with ties to Iran,Over 250 Office 365 accounts,Hacking,October 2021,"Targeted accounts were either U.S. and Israeli defense technology companies, had a focus on Persian Gulf ports of entry, or maritime transportation companies with a presence in the Middle East",
+196,Brazilian hackers,National Malware Center website belonging to Indonesia’s State Cyber and Password Agency,edited the contents of the webpage,October 2021,retribution for an Indonesian hack on the Brazilian state website,
+197,Unknown,Israeli Defense Ministry,Unknown,October 2021,Unknown,Hackers leaked data and photos
+198,Russian Foreign Intelligence Service (SVR),"resellers and other technology service providers that customize, deploy and manage cloud services",campaign,October 2021,Unknown,An American company announced the attack
+199,Chinese state-linked hackers,Afghan telecom provider Roshan,stole gigabytes of data from their corporate mail server,September 2021,Unknown,Unknown
+200,Russia,Elections and political systems of several EU member states,Hacking social media accounts of government officials and news websites,September 2021,Creating distrust in U.S. and NATO forces,The EU formally blamed Russia for its involvement in the 'Ghostwriter’ cybercampaign
+201,Unknown,Voicenter,Unknown,September 2021,Unknown,"Hackers obtained 15 TB of data from 8,000 organizations working with Voicenter and offered the data online for $1.5 million. Some experts have stipulated the hackers have ties to Iran, but no link has been confirmed."
+202,Chinese government,5G smartphone models,Embedding a module in the phones that detects and censors keywords,September 2021,Censorship of keywords that are counter to the message of the Chinese government,The Lithuanian Defense Ministry found hidden features in popular 5G smartphone models manufactured in China
+203,Unknown,polling systems in electoral districts nationwide,cyberattack,September 2021,disrupt Hungary’s opposition primary elections,The cyberattack led to the government extending voting by two days
+204,North Korean cybercriminals,"banks, professional soccer clubs, and other unnamed companies in the U.S. and U.K.","ATM cash-out operations, cyber-enabled bank heists, and business email compromise (BEC) schemes",September 2021,money laundering,Ghaleb Alaumary was sentenced to more than 11 years in prison for aiding these cybercriminals
+205,Unknown,United Nations,Stolen user credentials purchased on the dark web,April 2021,Long-term intelligence gathering,The hacker was able to access the UN network
+206,bad actors sponsored by and operating from China,private and state IT infrastructure of Norway,cyberattacks,September 2021,capture classified information relating to Norway’s national defense and security intelligence,The Norwegian Government stated a series of cyberattacks against private and state IT infrastructure came from bad actors sponsored by and operating from China
+207,Unknown,Kurdish ethnic group,Persuading individuals on Facebook to download apps that contain Android backdoors,September 2021,Espionage,The attack was carried out through social media and involved the use of malicious apps
+208,Chinese bots,networks of the Australian,swarmed,April 2020,,
+209,Unknown,Australia,Bots looking for potential vulnerabilities,Unknown,Australia's call for an independent international probe into the origins of the coronavirus,The attack was potentially a preparation for future cyberattacks
+210,Unknown,Government of Belarus,Cyberattack,August 2021,Overthrow President Alexander Lukashenko’s regime,The attack compromised dozens of police and interior ministry databases
+211,Unknown,a high-profile Iranian prison,Unknown,August 2021,demanding the release of political prisoners,"uncovered documents, videos, and images that displayed the violent treatment of its prisoners"
+212,A cyber-espionage group linked to one of Russia’s intelligence forces,the Slovak government,spear-fishing attempts,February to July 2021,Unknown,Unknown
+213,Russia,"""smart voting"" app created by Kremlin critic Alexei Navalny and his allies",blocked content,August 2021,to prevent organized voting against the Kremlin in next month's parliamentary elections,
+214,Chinese operatives,Israel’s government and tech companies,cyberattack,August 2021,Unknown,Hacks initially attributed to Iran in 2019 and 2020 were found to be conducted by Chinese operatives
+215,Unknown,Covid-19 vaccine-scheduling website for the Italian region of Lazio,Cyberattack,August 2021,Unknown,"The attack forced the website to temporarily shut down, preventing new vaccination appointments from being scheduled for several days."
+216,Various Chinese cyber-espionage groups,five major Southeast Asian telecommunication providers,Unknown,August 2021,Espionage,The attacks were carried out by three different hacking groups and are seemingly unlinked despite all groups having a connection to Chinese espionage efforts.
+217,Four Chinese nationals,"companies, universities, and government entities in the United States and abroad",The campaign focused on information,July 2021,economic benefit to China’s commercial sectors,The hacking activity took place between 2011 and 2018
+218,Tallinn-based hacker,Estonia government database,Exploiting a vulnerability,July 2021,Unknown,"The hacker downloaded 286,438 ID photos"
+219,Unknown,Saudi Arabian Oil Company,zero-day exploitation,July 2021,Ransom of $50 million in cryptocurrency,Hackers gained access to 1 terabyte of data
+220,Chinese entities,users in Southeast Asia,APT operation,July 2021,Unknown,"Researchers found a total of 100 victims in Myanmar and 1,400 in the Philippines, including many government entities."
+221,Chinese government,"Microsoft Exchange, more than 100,000 servers worldwide",malicious cyber activities,July 2021,Unknown,"The United States, the European Union, NATO and other world powers released joint statements condemning the Chinese government for these activities"
+222,unknown actors,"Transnet Port Terminals (TPT), South Africa’s state-run ports operator and freight rail monopoly",hack,July 2021,disruption of rail services,Transnet reportedly declared it an act “force majeure.”
+223,Unknown hackers,Indian government,compromised the two-factor authentication system,July 2021,obtaining access to the emails of government officials,
+224,Several countries,"devices belonging to activists, politicians, and journalists","Pegasus, surveillance software created by NSO Group that targets iPhone and Android operating systems",July 2021,surveillance,The software targets both iPhone and Android operating systems
+225,Chinese state-sponsored hackers,oil and natural gas pipeline companies in the United States,spearfishing campaign,July 2021,Unknown,The attack was exposed by the FBI and the U.S. Cybersecurity and Infrastructure Security Agency (CISA)
+226,Iran,U.S. military personnel,"Posing as recruiters, journalists, and NGO affiliates on Facebook, sending malware-infected files, phishing",July 2021,Unknown,"The hackers used Facebook accounts to pose as recruiters, journalists, and NGO affiliates"
+227,Unknown,Russian defense ministry,DDoS attack,July 2021,Unknown,The attack caused the defense ministry's website to shut down and it came from outside the Russian Federation.
+228,China,parliament's e-mail system,cyberattack,March 2021,Unknown,Norway attributed the attack to China
+229,Unknown,Iran’s transport and urbanization ministry,Cyber attack,July 2021,Unknown,The attack impacted display boards at stations throughout the country causing delays and cancellations of hundreds of trains across Iran.
+230,Russian hackers,Kaseya’s virtual systems/server administrator (VSA) software,exploited a vulnerability,July 2021,ransomware attack,"The hack affected around 1,500 small and midsized businesses, with attackers asking for $70 million in payment."
+231,Russian hackers,Ukranian Ministry of Defense's naval forces’ website,published fake reports,July 2021,disrupt the international Sea Breeze-2021 military drills,The attack was targeted at spreading misinformation about the international Sea Breeze-2021 military drills
+232,Unknown,Vladimir Putin’s annual phone-in session,DDoS attacks,June 2021,Unknown,Russia claimed the attack
+233,A Chinese-speaking hacking group,Afghan government,phishing emails,June 2021,espionage,Hackers posed as the Office of the President of Afghanistan and targeted the Afghan National Security Council
+234,The Iranian government,"WhatsApp groups, Telegram channels and messaging apps used by Israeli activists",disinformation campaign,June 2021,advance political unrest and distrust in Israel,
+235,Chinese actors,Verizon and the Metropolitan Water District of Southern California,using a platform used by numerous government agencies and companies for secure remote access to their networks,June 2021,,
+236,Russia’s Foreign Intelligence Service,Microsoft system,installed malicious software,June 2021,gain access to accounts and contact information,"The majority of the customers targeted were U.S. based, working for IT companies or the government"
+237,Russian GRU,government and private sector targets worldwide,brute force access,June 2021,Unknown,The targets were organizations using Microsoft Office 365® cloud services
+238,Unknown,Tracking data of NATO ships (HMS Defender and HNLMS Evertsen),Data falsification,June 2021,Unknown,The faked data positioned the two warships at the entrance of a major Russian naval base
+239,Russia,"email inboxes of more than 30 prominent Polish officials, ministers and deputies of political parties, and some journalists",cyberattack,June 2021,Unknown,Unknown
+240,REvil,Sol Oriens,Unknown,June 2021,Unknown,Sol Oriens is a small government contractor that works for the Department of Energy on nuclear weapons issues
+241,Unknown,United Kingdom’s Special Forces soldiers,Leaking spreadsheet on WhatsApp,June 2021,Unknown,"The leak contained classified personal details of the 1,182 soldiers"
+242,Unknown,iConstituent,Ransomware attack,June 2021,Unknown,iConstituent is a newsletter service used by U.S. lawmakers to contact constituents
+243,Hackers working on behalf of Russian intelligence services,Netherlands police internal network,Unknown,2017,Occurred during the country’s investigation of the Malaysia Airlines Flight 17 (MH17) that was shot down in 2014,The attack was believed to have been carried out by Russian intelligence services
+244,Unknown,LineStar Integrity Services,Ransomware attack,May 2021,Unknown,70 gigabytes of its internal files being stolen
+245,North Korean cyberattack group,South Korea's state-run Korea Atomic Energy Research Institute (KAERI),exploiting a vulnerability in a vendor’s VPN,May 2021,Unknown,Unknown
+246,REvil,JBS,ransomware attack,May 2021,Unknown,"The attack shut down facilities in the United States, Canada and Australia"
+247,Unknown,Fujitsu’s systems,Unknown,May 2021,Unknown,Files belonging to multiple Japanese government entities were stolen. Four government agencies have been impacted.
+248,a North Korean hacking group,high profile South Korean government officials,phishing methodology,May 2021,cyber espionage campaign,"The group’s targets were based in South Korea and included: the Korea Internet and Security Agency (KISA), ROK Ministry of Foreign Affairs, Ambassador of the Embassy of Sri Lanka to the State (in ROK), International Atomic Energy Agency Nuclear Security Officer, Deputy Consul General at Korean Consulate General in Hong Kong, Seoul National University, and Daishin Securities."
+249,a Russia-based cybercrime group,"Ireland’s national health service, the Health Service Executive (HSE)",Conti ransomware-as-a-service (RaaS),May 2021,ransomware attack,"Upon discovering the attack, government authorities shut down the HSE system"
+250,Avaddon,Multiple sectors in various countries,Ransomware campaign,May 2021,Unknown,"The targeted industries include: academia, airlines, construction, energy, equipment, financial, freight, government, health, it, law enforcement, manufacturing, marketing, retail, pharmaceutical."
+251,DarkSide,Colonial Pipeline,ransomware attack,May 2021,ransom,The energy company shut down the pipeline and later paid a $5 million ransom
+252,Unknown,Norwegian energy technology company Volue,Ransomware attack,May 2021,Unknown,"The attack resulted in the shutdown of water and water treatment facilities in 200 municipalities, affecting approximately 85% of the Norwegian population."
+253,Unknown,ISP used by Belgium’s government,DDoS attack,May 2021,Unknown,The attack impacted more than 200 organizations causing the cancellation of multiple Parliamentary meetings
+254,A Chinese hacking group,a Russian defense contractor,compromised,May 2021,involved in designing nuclear submarines for the Russian navy,
+255,Unknown,"Social media accounts of Polish officials, members of the Bundestag and state parliament",Compromising social media accounts,April 2021,Disseminate narratives critical of NATO,The same group targeted both Polish and German officials
+256,Hackers linked to the Chinese military,military and government organizations in Southeast Asia,espionage campaign,April 2021,Unknown,The attack began in 2019
+257,Unknown,Airline reservation systems,Malware,April 2021,Unknown,The attack caused the networks of 20 low-cost airlines around the world to crash
+258,Russian hackers,Ukrainian government officials,spearphishing attempts,April 2021,tensions between the two nations rose during early 2021,
+259,Hackers linked to Palestinian intelligence,"approximately 800 Palestinian reporters, activists, and dissidents",cyber espionage campaign,April 2021,Unknown,The attack was not only limited to Palestine but was more broadly across the Middle East
+260,Two state-backed hacking groups—one of which works on behalf of the Chinese government,organizations across the U.S. and Europe with a particular focus on U.S. defense contractors,exploited vulnerabilities in a VPN service,April 2021,Unknown,Unknown
+261,hostile states,UK professionals,spearphishing and social engineering campaigns,April 2021,Unknown,"Over 10,000 UK professionals have been targeted on LinkedIn over the past five years"
+262,Russian military intelligence,Swedish Sports Confederation,Unknown,Late 2017 and early 2018,In response to accusations of Russian government-sponsored doping of Russian athletes,Unknown
+263,Chinese-backed actors,New York City's Metropolitan Transportation Authority (MTA),Hacking,April 2021,Unknown,They were unable to gain access to user data or information systems
+264,unknown hackers,the European Commission and multiple other EU organizations,major cyberattack,April 2021,Unknown,The European Commission announced the attack
+265,Chinese hackers,government agencies in Vietnam,cyber espionage campaign,second half of 2020,gathering political intelligence,
+266,China-based hackers,Times of India,breached the networks and transferred data to an off-site server,March 2021,access media sources and gain early knowledge of media investigations and reporting,
+267,North Korean hacking group,infosec professionals,fake social media profiles and a fake website for a non-existent security service company,March 2021,Unknown,The same group was responsible for a set of attacks on cybersecurity researchers in January 2021
+268,Suspected Iranian hackers,medical researchers in Israel and the U.S.,attempt to steal the credentials,March 2021,"steal the credentials of geneticists, neurologists, and oncologists in the two countries",
+269,Suspected Russian hackers,U.S. State Department,breaching the email server,March 2021,stole thousands of emails,
+270,Suspected state hackers,Australian media company Nine Entertainment,ransomware variant,March 2021,disrupting live broadcasts and print production systems,
+271,Suspected Russian hackers,personal email accounts of German parliamentarians,Unknown,March 2021,in the run-up to Germany’s national elections,Unknown
+272,U.S. Cyber Command,Columbia,election interference and influence operations,March 2021,Unknown,U.S. Cyber Command is assisting in response to the attack
+273,U.S. Cyber Command,foreign threats ahead of the 2020 U.S. elections,forward hunt operations,March 2021,to confront foreign threats ahead of the 2020 U.S. elections,The organization had conducted more than two dozen operations in nine different countries
+274,A group of Chinese hackers,"Uyghur activists, journalists, and dissidents located abroad",Facebook to send malicious links,March 2021,,
+275,Chinese hackers,Indian transportation sector,cyber espionage campaign,March 2021,Unknown,The Indian Computer Emergency Response Team found evidence of the attack
+276,suspected Russian hackers,websites of Poland’s National Atomic Energy Agency and Health Ministry,took over the websites,March 2021,to spread false alerts of a nonexistent radioactive threat,
+277,Russian intelligence services,European Medicines Agency,stealing documents,2020,relating to COVID-19 vaccines and medicines,Both Russian and Chinese intelligence services targeted the European Medicines Agency in 2020 in unrelated campaigns
+278,Chinese intelligence services,European Medicines Agency,stealing documents,2020,relating to COVID-19 vaccines and medicines,Both Russian and Chinese intelligence services targeted the European Medicines Agency in 2020 in unrelated campaigns
+279,Russian FSB hackers,Ukraine’s State Security Service,Unknown,March 2021,gain access to classified government data,Ukraine’s State Security Service prevented a large-scale attack
+280,Russian hackers,"top Lithuanian officials, organizations involved in developing a COVID-19 vaccine",used the country’s IT infrastructure,March 2021,Unknown,The hackers used Lithuania's own IT infrastructure to carry out the attacks
+281,Suspected Iranian hackers,"government agencies, academia, and the tourism industry in Azerbaijan, Bahrain, Israel, Saudi Arabia, and the UAE",cyber espionage campaign,March 2021,espionage,
+282,Chinese government hackers,Microsoft’s enterprise email software,data theft,March 2021,steal data,"Over 30,000 organizations around the world were affected, including government agencies, legislative bodies, law firms, defense contractors, infectious disease researchers, and policy think tanks"
+283,Suspected Chinese hackers,electricity grid operators in India,Unknown,March 2021,to lay the groundwork for possible future attacks,Unknown
+284,A Portuguese-speaking cyber criminal group,a division of Oxford University researching COVID-19 vaccines,accessed computer systems,February 2021,selling the data they collected to nation states,
+285,North Korean hackers,defense firms in more than a dozen countries,espionage campaign,February 2021,Unknown,The attack started in early 2020
+286,Hackers associated with the Chinese military,Tibetans both in China and abroad,surveillance campaign,February 2021,Unknown,Unknown
+287,Russian hackers,Ukrainian government file-sharing system,disseminate malicious documents that would install malware on computers that downloaded the planted files,February 2021,Unknown,Unknown
+288,Unknown,human rights advocates,spyware,Unknown,cyber espionage,"The attack was used to infiltrate individuals’ systems, spy on their activity, and exfiltrate data"
+289,Unknown,the website of the Security Service of Ukraine,distributed denial-of-service attack,February 2021,part of Russia’s hybrid warfare operations in the country,Ukrainian officials reported the attack
+290,North Korean hackers,US Department of Justice,conspiring to steal and extort,February 2021,to steal and extort more than $1.3 billion in cash and cryptocurrencies,
+291,Iranian hackers,"political opponents in the Netherlands, Germany, Sweden, and India",took control of a server in Amsterdam and used it as a command and control center,February 2021,attacks against political opponents,The server was located in Amsterdam
+292,North Korean hackers,pharmaceutical company Pfizer,attempted to break into the computer systems,February 2021,to gain information about vaccines and treatments for the COVID-19,
+293,Suspected Iranian hackers,government agencies in the UAE,cyber espionage,February 2021,related to the normalizations of relations with Israel,
+294,a Russian hacking group,French IT providers,four-year campaign,February 2021,Unknown,The French national cybersecurity agency announced the attack
+295,Suspected Indian hackers,"over 150 individuals in Pakistan, Kazakhstan, and India including those with links to the Pakistan Atomic Energy Commission, the Pakistan Air Force, and election officials in Kashmir",mobile malware,February 2021,,
+296,cybercriminal gang,telecom companies,tricked telecom companies into assigning celebrities’ phone numbers to new devices,February 2021,stealing more than $100 million worth of cryptocurrencies,Ten members of the gang were arrested
+297,Unknown hackers,"Water supply of Oldsmar, Florida",Exploiting a remote access system,February 2021,Raise levels of sodium hydroxide in the water supply by a factor of 100,
+298,Two Iranian hacking groups,"Iranian dissidents in sixteen countries in the Middle East, Europe, South Asia, and North America",espionage campaigns,February 2021,Unknown,Unknown
+299,Hezbollah,"telecom companies, internet service providers, and hosting providers in the US, UK, Egypt, Israel, Lebanon, Jordan, Saudi Arabia, the UAE, and the Palestinian Authority",breach,January 2021,intelligence gathering and data theft,
+300,North Korean government hackers,cybersecurity researchers,sophisticated social engineering campaign,January 2021,not specified,used multiple fake twitter accounts and a fake blog to drive targets to infected sites or induce them to open infected attachments in emails
+301,Suspected Indian hackers active since 2012,"business and governments across South and East Asia, with a particular emphasis on military and government organizations in Pakistan, China, Nepal, and Afghanistan, and businesses involved in defense technology, scientific research, finance, energy, and mining",Unknown,January 2021,Unknown,Unknown
+302,Unidentified hackers,New Zealand’s central bank,breached,January 2021,Unknown,The attack was on one of the data centers
+303,Hackers linked to the Chinese government,five major gaming and gambling countries,ransomware attacks,January 2021,demanding over $100 million in ransom,
+304,North Korean hackers,U.S. pharmaceutical companies Johnson & Johnson and Novavax,Unknown,December 2020,to obtain information on COVID-19,both targets were working on experimental vaccines
+305,Unknown,Scottish Environment Protection Agency,Ransomware attack,December 2020,Ransom,"After the agency decided not to pay the ransom, the hackers published the stolen data."
+306,Iranian state hackers,"think tanks, research organizations, academics, journalists, and activists in the Persian Gulf, EU, and US",spearphishing campaign,December 2020,Unknown,Used a Christmas theme for the attack
+307,Chinese hackers,Finnish parliament,breaching the email accounts,December 2020,,
+308,Chinese hackers,African Union headquarters,siphoning off security footage,December 2020,Unknown,The hackers were able to access security footage from cameras installed in the AU headquarters
+309,One Saudi hacking group,36 phones belonging to Al Jazeera employees,spyware purchased from the Israeli vendor NSO Group,December 2020,Unknown,Unknown
+310,One UAE hacking group,36 phones belonging to Al Jazeera employees,spyware purchased from the Israeli vendor NSO Group,December 2020,Unknown,Unknown
+311,two unknown government-sponsored hacking groups,36 phones belonging to Al Jazeera employees,spyware purchased from the Israeli vendor NSO Group,December 2020,Unknown,Unknown
+312,Two groups of Russians and one group of individuals affiliated with the French military,Facebook accounts,Fake Facebook accounts,December 2020,To conduct dueling political information operations in Africa,The attack was not just from one group but multiple groups with different affiliations
+313,Iranian hackers,More than 40 Israeli companies,compromised a developer of logistics management software,December 2020,exfiltrate data from the firm’s clients,
+314,state-sponsored Vietnamese hackers,Facebook users,spreading malware,December 2020,Unknown,The attack was state-sponsored
+315,two non-profit groups in Bangladesh,Facebook users,compromising accounts and coordinating the reporting of accounts and pages for removal,December 2020,Unknown,The attack was coordinated by non-profit groups
+316,Suspected Chinese hackers,government agencies and the National Data Center of Mongolia,phishing campaign,December 2020,,
+317,Unknown,European Medicines Agency,Unknown,December 2020,Access data related to the COVID-19 vaccine being developed by Pfizer,The attack targeted the COVID-19 vaccine data
+318,Russian hackers,Over 200 organizations around the world including multiple US government agencies,compromised the software provider SolarWinds and exploited their access to monitor internal operations and exfiltrate data,December 2020,monitor internal operations and exfiltrate data,The hackers compromised the software provider SolarWinds
+319,A criminal group,Israeli insurance company Shirbit,ransomware,December 2020,demanding almost $1 million in bitcoin,The hackers published some sensitive personal information after making their demands and threatened to reveal more if they did not receive payment
+320,state-sponsored hacking groups,U.S. think tanks focusing on national security and international affairs,Unknown,December 2020,Unknown,CISA and the FBI announced the attack
+321,Suspected state-sponsored hackers from an unknown country,organizations in six countries involved in providing special temperature-controlled environments to support the COVID-19 supply chain,spear phishing campaign,December 2020,Unknown,The attack targeted organizations involved in the COVID-19 supply chain
+322,Baidu,users of two apps on Google Play Store,software development kit,November 2020,collect sensitive data,The data was sent to Chinese servers
+323,Unknown,A Mexican facility owned by Foxconn,Ransomware attack,November 2020,Unknown,"The hackers claim resulted in 1,200 servers being encrypted, 20-30 TB of backups being deleted, and 100 GB of encrypted files being stolen."
+324,North Korean hackers,AstraZeneca,posing as recruiters and sending the company’s employees fake job offers that included malware,November 2020,COVID-19 vaccine development,
+325,Chinese hackers,"Japanese organizations in multiple industry sectors located in multiple regions around the globe, including North America, Europe, Asia, and the Middle East",Unknown,November 2020,Unknown,Unknown
+326,A North Korean hacking group,South Korean internet users,software supply chain attacks,November 2020,compromising legitimate South Korean security software,
+327,One Russian and two North Korean hacking groups,seven companies involved in COVID-19 vaccine research,Unknown,November 2020,Unknown,Unknown
+328,A group of hackers for hire,"A group of targets in South Asia, and particularly India, Bangladesh, and Singapore",Use of a custom backdoor and credential theft,November 2020,Unknown,Unknown
+329,A group of Vietnamese hackers,users of fake websites devoted to news and activism in Southeast Asia,"creating and maintaining fake websites, profiling users, re-directing to phishing pages, and distributing malware",November 2020,Unknown,Unknown
+330,U.S. Cyber Command and the NSA,Iran,offensive cyber operations,November 2020,to prevent interference in the upcoming U.S. elections,
+331,Hamas,Unknown,cyberattacks and counter-intelligence operations,November 2020,Unknown,Hamas used a secret headquarters in Turkey
+332,Unknown,Indian pharmaceutical company,Unknown,October 2020,Compromise intellectual property,"In response, the company isolated all data centers and closed plants in the U.S., UK, Brazil, India, and Russia."
+333,Iranian hackers,state election websites,download voter registration information,October 2020,conduct a voter intimidation campaign,The U.S. government announces that Iranian hackers targeted state election websites
+334,Chinese state-sponsored hackers,U.S. defense industrial base,Unknown,October 2020,Unknown,"The United States was referred to as an 'empire of hacking', citing 2013 leaks about the NSA’s Prism program"
+335,A Russian cyber espionage group,an unidentified European government organization,Unknown,October 2020,Unknown,Unknown
+336,Iranian hackers,attendees of the Munich Security Conference,Unknown,October 2020,gather intelligence on foreign policy,compromised individuals
+337,Greek hackers,the website of the Turkish Parliament and 150 Azerbaijani government websites,defaced,October 2020,in support of Armenia,
+338,North Korean hacking group,"individual experts, think tanks, and government entities in South Korea, Japan, and the United States",cyber espionage campaign,October 2020,"collecting intelligence on national security issues related to the Korean peninsula, sanctions, and nuclear policy","The FBI, CISA and U.S. Cyber Command announced the hacking activity"
+339,Russian hacking group,"U.S. state and local government networks, aviation networks",breached and exfiltrated data,October 2020,Unknown,The attack was significant enough to warrant an announcement from the FBI and CISA
+340,A North Korean hacker group,aerospace and defense companies in Russia,Unknown,October 2020,Unknown,Unknown
+341,An Iranian hacking group,"universities in Australia, Canada, the UK, the U.S., the Netherlands, Singapore, Denmark, and Sweden",phishing campaign,October 2020,,
+342,Suspected Iranian hackers,"government agencies and telecommunications operators in Iraq, Kuwait, Turkey, and the UAE",cyber espionage,October 2020,espionage,
+343,Chinese government hackers,U.S. defense industrial base,wide-ranging espionage campaign,October 2020,espionage,The NSA warned about the attack
+344,Russian military intelligence hackers,2020 Tokyo Olympics,disruptive cyber attack,October 2020,Unknown,The attack was planned but the Olympics were later postponed
+345,Russian GRU,"Ukrainian critical infrastructure, French elections",Unknown,October 2020,Unknown,The same group was involved in multiple high-profile hacking incidents
+346,Unknown,Iran's Ports and Maritime Organization and one other unspecified government agency,Unknown,October 2020,Unknown,Iran announced the cyberattack
+347,Microsoft and U.S. Cyber Command,Russian botnet,operations,October 2020,ahead of the U.S. election,
+348,Unknown,U.S. Census Bureau,Unknown,October 2020,"Collect bulk data, alter registration information, compromise census infrastructure, or conduct DoS attacks",The U.S. Department of Homeland Security revealed the attack
+349,suspected Chinese hackers,"entities in Russia, India, Ukraine, Kazakhstan, Kyrgyzstan, and Malaysia",Unknown,October 2020,Unknown,U.S. government officials revealed the attack
+350,A Chinese group,"diplomatic entities and NGOs in Africa, Asia, and Europe",advanced malware adapted from code leaked by the Italian hacking tool vendor HackingTeam,October 2020,,
+351,Iranian hackers,Middle Eastern network technology providers and organizations involved in work with refugees,exploited a serious Windows vulnerability,October 2020,Unknown,Unknown
+352,A cyber mercenary group,government officials and private organizations in South Asia and the Middle East,a combination of methods including zero-day exploits,October 2020,,
+353,unknown intelligence service,Azerbaijani government institutions,cyber espionage campaign,October 2020,escalating conflict between Armenia and Azerbaijan over the territory of Nagorno-Karabakh,
+354,A previously unknown cyber espionage group,government agencies and corporations in Eastern Europe and the Balkans,stealing documents,October 2020,cyber espionage,The group has been active since 2011
+355,Unknown,The UN shipping agency the International Maritime Organization (IMO),Sophisticated cyber attack,October 2020,Unknown,The attack disrupted the IMO's website and networks
+356,North Korean hackers,a ministry of health and a pharmaceutical company,Unknown,October 2020,Unknown,The targets were involved in COVID-19 research and response
+357,Unknown,American healthcare firm Universal Health Systems,Ransomware attack,September 2020,Unknown,"The attack caused affected hospitals to revert to manual backups, divert ambulances, and reschedule surgeries"
+358,Unknown,Two subsidiaries of CMA CGM SA in Asia,Ransomware attack,September 2020,Unknown,"The attack caused significant disruptions to IT networks, but did not affect the moving of cargo"
+359,Russian hackers,"government agencies in NATO member countries, and nations who cooperate with NATO",phishing scheme that infects target computers with malware that creates a persistent backdoor,September 2020,Unknown,The campaign uses NATO training material as bait
+360,Chinese hackers,Spanish research centers,information theft,September 2020,Covid-19 vaccine development,
+361,Iranian hackers,"Iranian minorities, anti-regime organizations, and resistance members",a combination of malware including an Android backdoor designed to steal two factor authentication codes from text messages,September 2020,Unknown,Unknown
+362,Three hackers operating at the direction of Iran’s Islamic Revolutionary Guard Corps,"workers at aerospace and satellite technology companies, as well as international government organizations",Unknown,September 2020,Unknown,The hackers were indicted by the United States
+363,Unknown,German hospital,Ransomware attack,September 2020,Unknown,The attack may have led to the death of a patient who had to be redirected to a more distant hospital for treatment
+364,five Chinese hackers with ties to Chinese intelligence services,"more than 100 organizations across government, IT, social media, academia, and more",Unknown,September 2020,Unknown,The U.S. Department of Justice indicted the hackers
+365,Iranian hackers,"U.S. organizations in the IT, government, healthcare, finance, and media sectors",exploiting publicly known vulnerabilities,September 2020,Unknown,The FBI and CISA announced the attack
+366,hackers associated with the Chinese Ministry of State Security,U.S. government and private networks,scanning for networking devices that could be compromised using exploits for recently discovered vulnerabilities,September 2020,search of networking devices that could be compromised,The attack had been ongoing for over a year
+367,Unknown,One government organization in the Middle East and one in North Africa,Wiper malware that leveraged a ransomware-as-a-service offering,September 2020,Unknown,The malware used has recently become popular on cybercrime markets
+368,Unknown,COVID-19 research files at a biomedical research facility in Tbilisi,Cyberespionage,September 2020,Unknown,Georgian officials announced the attack
+369,Russia,emails of several members and employees of the Norwegian parliament and public employees in the Hedmark region,cyber attacks,September 2020,Unknown,Norway was able to defend against the attacks
+370,A North Korean hacking group,28 UN officials,spear-phishing campaign,August 2020,Unknown,At least 11 individuals representing six members of the UN Security Council were targeted
+371,Hackers for hire suspected of operating on behalf of the Iranian government,"North American and Israeli entities across a range of sectors, including technology, government, defense, and healthcare",Unknown,August 2020,To gain access to sensitive information,Unknown
+372,unknown actors,New Zealand’s stock exchange,distributed denial of service attack,August 2020,Unknown,The attack caused several days of disruptions
+373,North Korean government hackers,ATMs around the world,Unknown,August 2020,stealing money,Unknown
+374,Suspected Pakistani hackers,"victims in twenty-seven countries, most prominently in India and Afghanistan",custom malware,August 2020,to steal files,
+375,Russian hacking group,Ukraine,phishing campaign,August 2020,preparations for operations on Ukraine’s independence day,
+376,Chinese hackers,"information systems of at least ten government agencies and 6,000 email accounts",infiltration,August 2020,to gain access to citizens’ personal data and government information,
+377,A Chinese cyber espionage group,military and financial organizations across Eastern Europe,,August 2020,,
+378,North Korean hacking group,Israeli defense manufacturers,cyberattack,August 2020,Unknown,The Israeli defense ministry successfully defended against the attack
+379,An Iranian hacking group,major U.S. companies and government agencies,exploiting recently disclosed vulnerabilities in high-end network equipment to create backdoors,August 2020,to create backdoors for other groups to use,
+380,hackers associated with Indian intelligence agencies,mobile phones of Pakistani government officials and military personnel,Unknown,August 2020,Unknown,Unknown
+381,suspected Chinese state hackers,Seven semiconductor vendors in Taiwan,espionage campaign,August 2020,"targeting firms’ source code, software development kits, and chip designs",The attack lasted for two years
+382,Russian hackers,news sites,replaced legitimate articles with falsified posts that used fabricated quotes from military and political officials,August 2020,"to discredit NATO among Polish, Lithuanian, and Latvian audiences",
+383,Unknown,Israeli water infrastructure,Cyber attack,July 2020,Unknown,Neither of the attacks were successful
+384,Chinese state-sponsored hackers,the Vatican,broke into the networks,July 2020,conduct espionage in the lead-up to negotiations about control over the appointment of bishops and the status of churches in China,
+385,hackers associated with Russian intelligence,COVID-19 vaccine development information,Unknown,July 2020,steal information related to COVID-19 vaccine development,"The attack was announced by Canada, the UK, and the U.S."
+386,Russia,UK,stealing and leaking documents,July 2020,interfere in its 2019 general election,documents related to the UK-US Free Trade Agreement were leaked
+387,CIA,"Iran, North Korea, Russia, and China",disruption and public leaking of information,July 2020,authorized by a 2018 Presidential finding,Media reports say a 2018 Presidential finding authorized the CIA to conduct cyber operations
+388,US Cyber Command,Russian Internet Research Agency,Unknown,July 2020,Unknown,President Trump confirmed that he directly authorized the operation
+389,Unknown group from China,Uyghur and Tibetan mobile users,mobile malware campaign,June 2020,Unknown,The campaign had been ongoing since 2013
+390,A hacking group affiliated with an unknown government,Kurdish individuals in Turkey and Syria,Unknown,June 2020,Unknown,The hacking occurred at the same time as Turkey launched its offensive into northeastern Syria
+391,Unknown,Foreign companies operating in China,Backdoor,June 2020,Network reconnaissance or remote control of company systems,The backdoor was discovered in the most popular tax reporting software required by China for foreign companies to operate in the country
+392,Unknown,Nine human rights activists in India,"spyware, malware, keystroke logging, audio recording, credential theft",June 2020,Unknown,The attack was coordinated
+393,unknown actors,A Moroccan journalist,phishing messages,June 2020,Unknown,The phishing messages could have been used to download spyware developed by Israeli NSO group
+394,North Korean state hackers,"businesses and individuals in Singapore, Japan, the United States, South Korea, India, and the UK",COVID-19-themed phishing emails,June 2020,steal personal and financial data,
+395,unnamed state actor,businesses and government agencies in Australia,large-scale cyber attack,June 2020,not specified,The attack was announced by the Australian Prime Minister
+396,Unknown,Indian government agencies and banks,DDoS attacks,June 2020,Escalating tensions between China and India over a border dispute in the Galwan Valley,The attacks reportedly originated in China
+397,Suspected North Korean hackers,two defense firms in Central Europe,sending false job offers to their employees while posing as representatives from major U.S. defense contractors,June 2020,,
+398,unknown group of hackers,"Businesses in Japan, Italy, Germany, and the UK that supply equipment and software to industrial firms",targeted and highly sophisticated campaign,May 2020,Unknown,Unknown
+399,GRU,U.S. servers,exploiting a bug that could allow them to take remote control,May 2020,Unknown,The NSA announced the hacking activity
+400,Russian hacking group associated with the FSB,"energy, water, and power companies in Germany",compromising the firms’ suppliers,May 2020,,
+401,Cyber criminals,Norway’s state investment fund,business email compromise scam,May 2020,steal $10 million,tricked an employee into transferring money into an account controlled by the hackers
+402,Iranian hackers,air transportation and government actors in Kuwait and Saudi Arabia,cyber espionage campaign,May 2020,Unknown,Unknown
+403,Chinese hackers,UK airline group EasyJet,accessed the travel records,May 2020,,nine million customers were affected
+404,Unknown,The president’s office,Hacking and leaking files,Unknown,To show infighting within the administration,The president’s office claimed the leaked documents had been doctored
+405,hackers linked to the Chinese government,U.S. research into a coronavirus vaccine,not specified,May 2020,to steal U.S. research into a coronavirus vaccine,not specified
+406,Suspected Chinese hackers,Vietnamese government officials,phishing campaign,May 2020,ongoing territorial disputes with China in the South China Sea,
+407,Suspected Iranian hackers,IT systems of at least three telecom companies in Pakistan,compromised,May 2020,monitor targets in the country,
+408,Unknown,Mitsubishi Electric,Cyber attack,May 2020,Compromise details of new state-of-the-art missile designs,Japan’s Defense Ministry was investigating the attack
+409,Israeli hackers,an Iranian port,disruption of operations,May 2020,retaliation against a failed Iranian hack in April targeting the command and control systems of Israeli water distribution systems,The attack caused massive backups and delays
+410,PLA hacking group,"government-owned companies, foreign affairs ministries, and science and technology ministries across Australia, Indonesia, the Philippines, Vietnam, Thailand, Myanmar, and Brunei",Unknown,May 2020,Unknown,Unknown
+411,Unknown,Two Taiwanese petrochemical companies,Malware attacks,May 2020,Possibly linked to the upcoming inauguration of Taiwanese President Tsai Ing-wen’s second term,Taiwanese officials speculated the attacks
+412,Suspected Vietnamese government hackers,users in South and Southeast Asia,malicious apps uploaded to the Google Play app store,April 2020,"to infect users with spyware capable of monitoring the target’s call logs, geolocation data, and text messages",
+413,Russian government,Poland’s War Studies University,cyber attacks,April 2020,advance a disinformation campaign undermining U.S.-Polish relations,
+414,Suspected Iranian hackers,"command and control systems of water treatment plants, pumping stations, and sewage in Israel",unspecified,April 2020,unspecified,unspecified
+415,Chinese hackers,"healthcare providers, pharmaceutical manufacturers, and the U.S. Department of Health and Human services",Unknown,April 2020,Unknown,The attacks occurred amidst the COVID-19 pandemic
+416,Suspected Vietnamese hackers,Wuhan government and the Chinese Ministry of Emergency Management,Unknown,April 2020,To collect information related to China’s COVID-19 response,Unknown
+417,unknown group,Government and energy sector entities in Azerbaijan,focused on the SCADA systems of wind turbines,April 2020,Unknown,Unknown
+418,A Russian hacking group,the governments of Estonia and the Republic of Georgia,forged diplomatic cables and planted articles on social media,April 2020,to undermine the governments of Estonia and the Republic of Georgia,
+419,Suspected state-sponsored hackers,Chinese government agencies and Chinese diplomatic missions abroad,exploiting a zero-day vulnerability in virtual private networks servers,April 2020,Unknown,Unknown
+420,Iranian government-backed hackers,accounts of WHO staffers,Unknown,April 2020,Unknown,The attack happened in the midst of the Covid-19 pandemic
+421,North Korean hackers,individuals involved with North Korean refugees issues,cyber espionage,March 2020,espionage,
+422,Suspected South Korean hackers,North Korean targets,five previously unreported software vulnerabilities,March 2020,espionage campaign,
+423,Saudi mobile operators,Saudis traveling abroad,exploited a flaw in global telecommunications infrastructure,March 2020,to track the location,
+424,Chinese hackers,"75 organizations around the world in the manufacturing, media, healthcare, and nonprofit sectors",cyber espionage,March 2020,espionage,The attack was part of a broad-ranging campaign
+425,A suspected nation state hacking group,industrial sector companies in Iran,,March 2020,,
+426,suspected state security hackers,Human rights activists and journalists in Uzbekistan,spearphishing,March 2020,install spyware on their devices,
+427,CIA,"Chinese industry targets, scientific research organizations, and government agencies",Unknown,March 2020,Unknown,The hacking campaign lasted for 11 years
+428,North Korean hackers,cryptocurrency,laundering,February 2020,Unknown,Two Chinese nationals were indicted by the U.S. Department of Justice for aiding the hackers
+429,Unknown,Mexico’s economy ministry,Cyber attack,February 2020,Unknown,No sensitive data had been exposed
+430,Unknown,U.S. Defense Information Systems Agency,Data breach,February 2020,Unknown,The breach exposed the personal information of an unspecified number of individuals
+431,A hacking group of unknown origin,government and diplomatic targets across Southeast Asia,phishing campaign utilizing custom malware,February 2020,Unknown,Unknown
+432,Chinese hackers,Malaysian government officials,Data theft,February 2020,To steal data related to government-backed projects in the region,
+433,Unknown,Iran's communications infrastructure,DDoS,February 2020,Unknown,The attack caused internet outages across the country
+434,An Iranian hacking group,U.S. based research company Wesat,Unknown,January 2020,suspected effort to gain access to the firm’s clients in the public and private sectors,Unknown
+435,unknown but sophisticated hacking group,UN's IT systems in Europe,Unknown,January 2020,Unknown,The UN was revealed to have covered up the hack
+436,Turkish government hackers,"30 organizations across Europe and the Middle East, including government ministries, embassies, security services, and companies",Unknown,January 2020,Unknown,Unknown
+437,a suspected Chinese group,Mitsubishi,massive cyberattack,January 2020,"compromised personal data of 8,000 individuals as well as information relating to partnering businesses and government agencies",including projects relating to defense equipment
+438,nation state hackers,networks of two U.S. municipalities,exfiltrating user information and establishing backdoor access,January 2020,future compromise,The FBI announced the breach
+439,A Russian hacking group,a Ukrainian energy company,infiltration,January 2020,Unknown,"Hunter Biden was previously a board member of the company, and the company has featured prominently in the U.S. impeachment debate"
+440,Israeli NSO Group,Pakistani government officials' mobile phones,spyware,January 2020,Unknown,More than two dozen Pakistani government officials were targeted
+441,A suspected nation state,the Austrian foreign ministry,cyber attack,January 2020,Unknown,The attack lasted several weeks
+442,Unknown,"Bapco, the national oil company of Bahrain",Iranian wiper malware,December 2019,Unknown,Unknown
+443,North Korean hacking group,"government employees, think tank experts, university staff, and others involved in nuclear proliferation issues",use of web domains,December 2019,Unknown,Microsoft won a legal battle to take control of 50 web domains used by the hacking group
+444,Chinese state-sponsored hacking group,government entities and managed service providers,bypassing the two-factor authentication,December 2019,Unknown,Unknown
+445,Chinese hackers,a Cambodian government organization,custom malware,December 2019,,
+446,Unknown hackers,government agencies in 22 nations,stole login credentials,December 2019,Unknown,Unknown
+447,a foreign government,Iran’s e-government infrastructure,major cyber attack,December 2019,Unknown,Iran managed to foil the attack
+448,A suspected Vietnamese state-sponsored hacking group,BMW and Hyundai networks,,December 2019,,
+449,Russian government hackers,"Ukrainian diplomats, government officials, military officers, law enforcement, journalists, and nongovernmental organizations",spear phishing campaign,December 2019,,
+450,A Russian-speaking hacking group,"Kazakh individuals and organizations including government agencies, military personnel, foreign diplomats, journalists, dissidents, and others",spear phishing and physical device compromise,November 2019,,
+451,an Iranian hacker group,"employees of dozens of manufacturers, suppliers, or maintainers of industrial control system equipment and software",password-spraying attacks,November 2019,Unknown,"Microsoft security researchers found that in the last year, the hacker group carried out attacks on thousands of organizations, but since October, have focused on the specific target"
+452,An alleged non-state actor,UK Labour party,DDoS attack,November 2019,Unknown,The attack temporarily took the party’s computer systems offline
+453,An Israeli cybersecurity firm,senior government and military officials in at least 20 countries,exploiting a vulnerability in WhatsApp,October 2019,Unknown,"The spyware was sold, not used directly by the cybersecurity firm"
+454,Russia,"websites across Georgia, including government and court websites containing case materials and personal data",state-sponsored hacking campaign,October 2019,Unknown,More than 20 countries later attributed the attack to Russia
+455,North Korean malware,a nuclear power plant,data extraction,October 2019,Unknown,India announced that North Korean malware had been identified in the networks of a nuclear power plant
+456,Suspected North Korean hackers,individuals working on North Korea-related issues at the UN and other NGOs,attempted to steal credentials,October 2019,Unknown,Unknown
+457,Russian cyberespionage campaign,Middle Eastern targets,used an Iranian hacking group’s tools and infrastructure,October 2019,to spy,The NSA and GCHQ found that a Russian cyberespionage campaign had used an Iranian hacking group’s tools and infrastructure
+458,Russian hackers,embassies and foreign affairs ministries in several European countries,Unknown,October 2019,Unknown,The campaign has been ongoing since 2013
+459,Iranian hackers,more than 170 universities around the world,stealing,October 2019,stealing $3.4 billion worth of intellectual property and selling stolen data to Iranian customers,The attack was carried out between 2013 and 2017
+460,Chinese hackers,foreign companies,multi-year campaign,October 2019,to acquire intellectual property to support the development of the Chinese C919 airliner,The hacking campaign lasted between 2010 and 2015
+461,Chinese government,propaganda app with more than 100 million users,programmed to have a backdoor,October 2019,"granting access to location data, messages, photos, and browsing history, as well as remotely activate audio recordings",
+462,The Moroccan government,two human rights activists,spyware,October 2019,Unknown,The spyware was purchased from Israel
+463,A state-sponsored hacking group,diplomats and high-profile Russian speaking users in Eastern Europe,,October 2019,,
+464,Chinese hackers,"entities in Germany, Mongolia, Myanmar, Pakistan, and Vietnam, individuals involved in UN Security Council resolutions regarding ISIS, and members of religious groups and cultural exchange nonprofits in Asia",Unknown,October 2019,Unknown,Unknown
+465,Iranian hackers,"the Trump campaign, current and former U.S. government officials, journalists, and Iranians living abroad",Unknown,October 2019,Unknown,Unknown
+466,State-sponsored Chinese hackers,"Myanmar, Taiwan, Vietnam, Indonesia, Mongolia, Tibet, Xinjiang",espionage campaigns,October 2019,Unknown,The hackers have conducted at least six espionage campaigns since 2013
+467,The Egyptian government,"journalists, academics, lawyers, human rights activists, and opposition politicians",cyberattacks,October 2019,Unknown,Unknown
+468,Chinese hackers,"government agencies, embassies, and other government-related embassies across Southeast Asia",Unknown,first half of 2019,Unknown,Unknown
+469,The United States,Iran,cyber operations,September 2019,retaliation for Iran’s attacks on Saudi Arabia’s oil facilities,"The operation affected physical hardware, and had the goal of disrupting Iran’s ability to spread propaganda"
+470,Unknown,Airbus,Supply chain attacks,September 2019,Targeting commercial secrets,The attack targeted four of the company’s subcontractors
+471,A Chinese state-sponsored hacking group,three U.S. utility companies,Unknown,September 2019,Unknown,The same group was found to have subsequently targeted seventeen other utility companies
+472,Hackers with ties to the Russian government,the embassies and foreign affairs ministries of countries across Eastern Europe and Central Asia,phishing campaign,September 2019,,
+473,Alleged Chinese hackers,senior Tibetan lawmakers and individuals with ties to the Dalai Lama,mobile malware,September 2019,,
+474,North Korean hackers,Unknown,phishing campaign,September 2019,Unknown,Unknown
+475,Iranian hackers,"more than 60 universities in the U.S., Australia, UK, Canada, Hong Kong, and Switzerland",Unknown,September 2019,to steal intellectual property,Unknown
+476,U.S. government,Huawei's intranet and internal information systems,hacking,September 2019,to disrupt its business operations,
+477,China,Uyghur populations,"compromised websites to distribute malware using previously undisclosed exploits for Apple, Google, and Windows phones",August 2019,Unknown,"The attack used previously undisclosed exploits for Apple, Google, and Windows phones"
+478,Chinese state-sponsored hackers,U.S. cancer institutes,Unknown,August 2019,To take information relating to cutting edge cancer research,Unknown
+479,North Korean hackers,foreign affairs officials in at least three countries,phishing campaign,August 2019,focus on those studying North Korean nuclear efforts and related international sanctions,
+480,Huawei technicians,Government officials in two African countries,Track political rivals and access encrypted communications,August 2019,Unknown,Unknown
+481,Unspecified foreign state (Russia),Czech Republic's Foreign Ministry,Cyberattack,August 2019,Unknown,"The attack was initially attributed to an unspecified foreign state, but was later identified as Russia"
+482,A suspected Indian cyber espionage group,Chinese government agencies and state-owned enterprises,phishing campaign,August 2019,"information related to economic trade, defense issues, and foreign relations",
+483,hackers linked to Iran,Networks at several Bahraini government agencies and critical infrastructure providers,infiltration,August 2019,Unknown,Unknown
+484,A previously unidentified Chinese espionage group,"foreign firms in industries identified as strategic priorities by the Chinese government, including telecommunications, healthcare, semiconductor manufacturing, and machine learning",data gathering,August 2019,"gather data from strategic industries, theft of virtual currencies, and monitoring of dissidents in Hong Kong",The group has been active since 2012
+485,Russian hackers,high-value corporate networks,"using vulnerable IoT devices like a printer, VOIP phone, and video decoder",August 2019,,
+486,unidentified Spanish-language espionage group,senior officials in the Venezuelan Army,unspecified,August 2019,theft of sensitive mapping files,The campaign lasted for seven years
+487,State-sponsored Chinese hackers,employees of three major U.S. utility companies,spear-phishing campaign,July 2019,,
+488,Unknown,Capital One,Unknown,July 2019,Unknown,The hacker accessed data on 100 million credit card applications
+489,state-sponsored group,ProtonMail,hacking,July 2019,gain access to accounts held by reporters and former intelligence officials conducting investigations of Russian intelligence activities,The target was an encrypted email service provider
+490,Chinese government,"BASF, Siemens, and Henkel",state-sponsored hacking campaign,July 2019,Unknown,Several major German industrial firms were targeted
+491,A Chinese hacking group,"government agencies across East Asia involved in information technology, foreign affairs, and economic development",Unknown,July 2019,Unknown,Unknown
+492,Unknown,A merchant vessel,Malware,July 2019,Unknown,The attack happened while the vessel was traveling through international waters
+493,An Iranian hacking group,"LinkedIn users associated with financial, energy, and government entities operating in the Middle East",Unknown,July 2019,Unknown,Unknown
+494,"Unknown groups from Iran, North Korea, and Russia","Think tanks, NGOs, and other political organizations",Cyberattacks,July 2019,Unknown,Microsoft detected almost 800 cyberattacks over the past year
+495,Russian troll farm,elections in several African countries,Unknown,July 2019,to influence the elections,two men were arrested in Libya for working with the hacker group
+496,unidentified state sponsored hackers,Croatian government agencies,Unknown,July 2019,Unknown,Unknown
+497,a known Iran-linked hacking group,government networks,malware,July 2019,Unknown,U.S. Cybercommand issued an alert warning
+498,Western intelligence services,Russian internet search company Yandex,hacking,June 2019,to spy on user accounts,The attack was alleged to have occurred in late 2018
+499,a Chinese espionage group,ten international cellphone providers,hacking,June 2019,"to track dissidents, officials, and suspected spies",The hacking operation spanned across seven years and thirty countries
+500,U.S.,Iranian computer systems used to control missile and rocket launches,offensive cyber operations,June 2019,Unknown,Unknown
+501,CIA-backed cyber espionage network,Iran,cyber espionage,June 2019,espionage,Iran announced that it had exposed and helped dismantle the network
+502,U.S. officials,Russian grid systems,hacking tools,June 2019,deterrent and warning to Russia,
+503,a major hacking group with suspected Russian ties,networks of electrical utilities,conducting reconnaissance,June 2019,Unknown,U.S. grid regulator NERC issued a warning
+504,China,Telegram,denial-of-service attack,June 2019,disrupt communications among Hong Kong protestors,
+505,A suspected Iranian group,"telecommunications services in Iraq, Pakistan, and Tajikistan",hacked,June 2019,,
+506,Chinese intelligence services,Australian University,hacking,June 2019,to collect data they could use to groom students as informants before they were hired into the civil service,
+507,Chinese state-sponsored hackers,Government organizations in two different Middle Eastern countries,,May 2019,,
+508,A Chinese government-sponsored hacking group,unidentified entities across the Philippines,,May 2019,,
+509,Iran,"U.S., Israel, and Saudi Arabia",network of websites and accounts,May 2019,spread false information,
+510,Hamas,Israeli targets,unspecified,May 2019,unspecified,The Israeli Defense Forces launched an airstrike in response to the hacking attempt
+511,Hackers affiliated with the Chinese intelligence service,NSA,using NSA hacking tools,May 2019,Unknown,"The hackers had been using the tools since 2016, more than a year before those tools were publicly leaked"
+512,Chinese hackers,Amnesty International’s Hong Kong office,Unknown,April 2019,Unknown,The hackers accessed the personal information of the office’s supporters
+513,Luhansk People’s Republic,Ukrainian military and government organizations,Unknown,April 2019,Unknown,Luhansk People’s Republic is a Russia-backed group that declared independence from Ukraine in 2014
+514,Chinese hackers,General Electric,stole,April 2019,trade secrets concerning jet engine turbine technologies,
+515,Unknown,Lithuania's Defense Minister,Spoofed email addresses,April 2019,Discredit the Defense Minister by spreading rumors of corruption,The attack was a disinformation campaign
+516,Unknown,web service used to publish the vote tallies from Finland’s elections,denial-of-service attack,April 2019,Unknown,The Finnish police probed the attack
+517,Iranian hackers,"banks, local government networks, and other public agencies in the UK",hacking campaign,April 2019,Unknown,Unknown
+518,Chinese hackers,Pharmaceutical company Bayer,Unknown,April 2019,targeting sensitive intellectual property,Bayer announced it had prevented an attack
+519,Chinese hackers,Israeli defense firms,Unknown,March 2019,Target had connections to the U.S. military,Unknown
+520,Unknown,"Grid operators in Los Angeles County, California and Salt Lake County, Utah",DDoS attack,March 2019,Disrupt operations,The attack did not cause any outages
+521,The Australian Signals Directorate,ISIS targets in the Middle East,cyber attacks,March 2019,to disrupt their communications in coordination with coalition forces,
+522,An Iranian cyber espionage group,government and industry digital infrastructure in Saudi Arabia and the U.S.,Unknown,March 2019,Unknown,Unknown
+523,State supported Vietnamese hackers,foreign automotive companies,Unknown,March 2019,to acquire IP,Unknown
+524,Iran's intelligence service,former IDF Chief and Israeli opposition leader Benny Gantz’ cellphone,hacked,March 2019,ahead of Israel’s April elections,
+525,North Korean hackers,an Israeli security firm,industrial espionage campaign,March 2019,industrial espionage,
+526,Russian hackers,European government agencies,,March 2019,ahead of EU elections in May,
+527,Chinese and Russian hackers,Indonesia’s National Election Commission,probed,March 2019,ahead of presidential and legislative elections in the country,Indonesia’s voter database was targeted
+528,government-backed hackers,"Egyptian human rights activists, media, and civil society organizations",Unknown,March 2019,Unknown,Civil liberties organizations claimed the attack
+529,North Korea,UN Security Council,state-sponsored hacking,March 2019,to evade international sanctions,stole $670 million in foreign currency and cryptocurrency between 2015 and 2018
+530,Iranian hackers,more than 200 oil-and-gas and heavy machinery companies across the world,stealing corporate secrets and wiping data from computers,March 2019,stealing corporate secrets and wiping data,
+531,Pakistani hackers,Indian government websites and critical systems,offensive cyber measures,March 2019,Following an attack on Indian military forces in Kashmir,Indian officials reported that they engaged in offensive cyber measures to counter the attacks
+532,Chinese hackers,27 universities in the U.S.,Unknown,March 2019,to steal research on naval technologies,U.S. officials reported the attack
+533,China-linked hackers,UN International Civil Aviation Organizations,spread malware to foreign government websites,February 2019,Unknown,The attack was revealed in 2019 but occurred in late 2016
+534,North Korean,Vietnam summit of Kim Jong Un and Donald Trump,Unknown,February 2019,Unknown,The attack happened prior to the summit
+535,Unknown,South Korean institutions,phishing campaign,Unknown,Unknown,The hackers used documents related to a diplomatic event as bait
+536,U.S. Cybercommand,Internet Research Agency,blocked internet access,February 2019,Involved in information operations against the U.S. during the 2016 presidential election,The attack was during the 2018 U.S. midterm elections
+537,North Korean hackers,Russian companies,Hacking campaign,February 2019,State-sponsored,
+538,Russian intelligence services,individuals in Europe at civil society groups working on election security and democracy promotion,Unknown,February 2019,Unknown,Unknown
+539,State-sponsored hackers,computer systems of several political parties and the Australian Federal Parliament,Unknown,February 2019,Unknown,Unknown
+540,Chinese hackers,Airbus,stole the personal and IT identification information,February 2019,Unknown,The target was the personal and IT identification information of some of Airbus's European employees
+541,Chinese Ministry of State Security,Visma,Unknown,February 2019,to steal trade secrets from the firm’s clients,Unknown
+542,Hackers associated with the Russian intelligence services,Center for Strategic and International Studies,Unknown,January 2019,Unknown,Unknown
+543,North Korean botnet,"companies in the media, aerospace, financial, and critical infrastructure sectors",botnet,January 2019,disruption,The U.S. Department of Justice announced an operation to disrupt the botnet
+544,Russian-based hacking group,Ministry of Defense,cyberattack targeting the mailboxes,January 2019,Unknown,The attack targeted the mailboxes of nineteen executives of the ministry
+545,Former U.S. intelligence personnel,"phones of activists, diplomats, and foreign government officials",Unknown,January 2019,to help the UAE,Former U.S. intelligence personnel were revealed to be working for the UAE
+546,Huawei and its CFO Meng Wanzhou,U.S.,"wire and bank fraud, obstruction of justice, conspiracy to steal trade secrets",January 2019,alleged crimes,U.S. prosecutors unsealed two indictments
+547,Iranian hackers,telecom and travel industries,surveil and collect the personal information,January 2019,"to surveil and collect the personal information of individuals in the Middle East, U.S., Europe, and Australia",The attack has been ongoing since at least 2014
+548,Russian hackers,U.S. Democratic National Committee,Unknown,January 2019,Unknown,The attack happened in the weeks after the 2018 midterm elections
+549,unknown hackers,South Korea’s Ministry of National Defense,,January 2019,,
+550,Unknown,the ministry’s procurement office,compromised computer systems,Unknown,Unknown,Unknown
+551,"a group of hackers from the U.S., Russia, and Ukraine",SEC’s online corporate filing portal,exploited to execute trades based on non-public information,January 2019,execute trades based on non-public information,The U.S. Securities and Exchange Commission charged the hackers with the 2016 breach
+552,Iran,"telecommunications and internet infrastructure providers as well as government entities in the Middle East, Europe, and North America",DNS hijacking,January 2019,Unknown,"This was a multi-year, global campaign"
+553,Unknown,German politicians,Unknown,January 2019,Unknown,Targets represented every political party except the far-right AfD
+554,Chinese hackers,managed service providers,stole IP and confidential business and technological information,December 2018,Unknown,Managed service providers are companies that manage IT infrastructure for other businesses and governments
+555,North Korean hackers,Chilean interbank network,tricking an employee into installing malware over the course of a fake job interview,December 2018,,
+556,Chinese hackers,EU’s communications systems,compromised,December 2018,maintaining access to sensitive diplomatic cables,The hackers had access for several years
+557,North Korean hackers,"personal information of almost 1,000 North Korean defectors living in South Korea",Unknown,December 2018,Unknown,Unknown
+558,Two Chinese hackers,IP and trade secrets of companies across 12 countries,cyber espionage,December 2018,Espionage,"The United States, in coordination with Australia, Canada, the UK, and New Zealand, accused China for conducting a 12-year campaign"
+559,Chinese hackers,Navy contractors,information theft,December 2018,stealing ship maintenance data and missile plans,U.S. Navy officials report that Chinese hackers had repeatedly stolen information
+560,Russia-linked group,government agencies of Ukraine and multiple NATO members,cyber campaign,December 2018,Unknown,Unknown
+561,a state-sponsored Middle Eastern hacking group,"telecommunications companies, government embassies, and a Russian oil company located across Pakistan, Russia, Saudi Arabia, Turkey, and North America",Unknown,December 2018,Unknown,Unknown
+562,Unknown,Saipem,Modified version of the Shamoon virus,December 2018,Unknown,"The attack took down hundreds of the company’s servers and personal computers in the UAE, Saudi Arabia, Scotland, and India"
+563,North Korean hackers,universities in the U.S.,Unknown,December 2018,focus on individuals with expertise in biomedical engineering,The attack has been ongoing since May
+564,Russian special services,information systems of Ukraine’s judicial authority,Unknown,December 2018,disrupt,The Security Service of Ukraine blocked the attempt
+565,Russian intelligence services,Czech foreign ministry,Unknown,December 2018,Unknown,The attack was discovered a year after it happened
+566,Chinese hackers,American hotel chain,breaching the systems,December 2018,stealing the personal information of over 500 million customers,
+567,Russia-linked group,"email accounts of several members of the German parliament, German military and several embassies",not specified,November 2018,not specified,not specified
+568,Russia,Ukrainian government and military targets,coordinated cyber attacks,November 2018,before and during the attack on Ukrainian ships in late November,
+569,Mexican government-linked group,colleagues of a slain journalist investigating drug cartels,spyware,November 2018,Unknown,The target was investigating drug cartels
+570,Unknown,Government websites of Lebanon and the UAE,Cyberespionage,November 2018,Unknown,Security researchers discovered the campaign
+571,two Iranians,Atlanta’s government,ransomware attack,November 2018,Unknown,The U.S. Justice Department indicted the hackers
+572,foreign hackers,China,"theft of confidential emails, utility design plans, lists of army units, and more",November 2018,Unknown,Chinese state media reports that the country had been the victim of multiple attacks by foreign hackers in 2018
+573,North Korean hackers,ATMs across Asia and Africa,malware,November 2018,steal tens of millions of dollars,
+574,Russian hackers,"computer systems of military and law enforcement agencies, defense contractors, and media companies",impersonating U.S. State Department officials,November 2018,attempted to gain access,Security researchers report
+575,Unknown,Ukraine state agencies,Malware implantation,November 2018,Preparation for a future large-scale cyber attack,Ukraine’s CERT discovered the malware
+576,Chinese cyberespionage group,UK engineering company,techniques associated with Russia-linked groups,November 2018,to avoid attribution,Researchers discover that a Chinese cyberespionage group targeted a UK engineering company using techniques associated with Russia-linked groups in an attempt to avoid attribution
+577,nation-state hackers,Pakistani Air Force,zero-day exploits,November 2018,,
+578,Security researchers,Iranian domestic surveillance campaign,,November 2018,,
+579,Unknown,Australian defense shipbuilder Austal,Unknown,November 2018,Theft of unclassified ship designs,The stolen designs were later sold online
+580,Unknown,Iran’s civil defense agency,Stuxnet,October 2018,Unknown,"The country had recently neutralized a new, more sophisticated version of Stuxnet"
+581,Chinese intelligence officers and hackers working for them,U.S. aerospace companies,hack,October 2018,steal information,The U.S. Department of Justice indicted the hackers
+582,a research institute run by the Russian government,a petrochemical plant in Saudi Arabia,malware,October 2018,Unknown,Unknown
+583,Cyber Command,individual Russian operatives,targeting,October 2018,deter them from interfering in the 2018 midterm elections,U.S. defense officials announced the operation
+584,China and Russia,President Trump,eavesdropping on calls,October 2018,Unknown,The calls were made from an unsecured phone
+585,Israel Defense Force,personal correspondence of social media users,monitoring,October 2018,Unknown,The Israel Defense Force requested cybersecurity companies to develop proposals for the attack
+586,Unknown,U.S. election infrastructure,Cyber activity,October 2018,Interference in the 2018 midterm elections,The U.S. Department of Homeland Security detected the activity
+587,Unknown,The Centers for Medicare and Medicaid Services,Compromised a government computer system,October 2018,"Gaining access to the personal data of 75,000 people",The attack happened ahead of the start of ACA sign-up season
+588,Russian group,information and telecommunication systems of Ukrainian government groups,attempted hack,October 2018,Unknown,The Security Service of Ukraine announced the attempted hack
+589,GRU,"FIFA, Westinghouse Electric Company, the Organisation for the Prohibition of Chemical Weapons, and the U.S. and World Anti-Doping Agencies",hacking,October 2018,Unknown,The U.S. Justice Department announces criminal charges against seven GRU officers
+590,a Russian hacking group,computers at government institutions in the Balkans and in Central and Eastern Europe,malware,September 2018,Unknown,The attack targeted the firmware of computers
+591,foreign government hackers,email accounts of Senators and their staff,attempts to gain access,September 2018,not specified,a major technology company had alerted multiple Senate offices
+592,36 different governments,"targets in at least 45 countries, including the U.S., France, Canada, and the UK",Pegasus spyware,September 2018,Unknown,Unknown
+593,Unknown,U.S. State Department,Breach of unclassified email system,September 2018,Exposing personal information of employees,Several hundred employees' personal information was exposed
+594,two Russian spies,Swiss defense lab,cyber tools,September 2018,sabotage the Swiss defense lab analyzing the nerve agent used to poison former Russian Agent Sergei Skripal,The spies were caught in the Netherlands
+595,Iranian hackers,"Iranian citizens, ISIS supporters and members of the Kurdish ethnic group",mobile spyware campaign,September 2018,surveillance,The hacking has been ongoing since 2016
+596,Russian hackers,email inboxes of religious leaders connected to Ukraine,Unknown,September 2018,efforts to disassociate Ukraine’s Orthodox church from its association with Russia,Unknown
+597,a Russian hacker,JP Morgan Chase,hack,September 2018,theft of data from over 80 million customers,The U.S. Department of Justice announces the indictment and extradition of a Russian hacker
+598,North Korean Hacker,"Sony, Bangladeshi bank","Hacking, Ransomware attacks",September 2018,"Theft, Disruption",Park Jin Hyok was involved in multiple high-profile attacks
+599,Unknown,"Vietnamese defense, energy, and government organizations",Cyber espionage,September 2018,Espionage,This campaign is linked to attacks that occurred in 2013 and 2014
+600,Chinese hackers,Starwood hotel chain,breached the systems,September 2018,steal personal information,It is estimated that the personal information of up to 500 million people was stolen
+601,North Korean hackers,India’s Cosmos Bank,"breaking into the bank’s system and authorizing thousands of unauthorized ATM withdrawals, as well as several illegal money transfers through the SWIFT financial network",August 2018,steal money,stole $13.5 million
+602,Iranian hackers,websites and login pages of 76 universities in 14 countries,stole the credentials of users who attempted to sign in,August 2018,intellectual property theft,The attackers gained access to library resources
+603,groups in Russia and Iran,"users in the U.S., Latin America, Britain, and the Middle East","disinformation campaigns involving 652 fake accounts, pages, and groups",August 2018,Unknown,Facebook identified multiple new disinformation campaigns on its platform
+604,Russian hackers,U.S. Senators and conservative think tanks critical of Russia,Unknown,August 2018,Unknown,Microsoft was the one to announce the hacking attempt
+605,an Iranian hacking group,"the industrial control systems of electric utility companies in the U.S., Europe, East Asia, and the Middle East",Unknown,July 2018,Unknown,Unknown
+606,Russian hackers,networks of multiple U.S. electric utilities,Unknown,July 2018,put attackers in a position where they could have caused blackouts,The Department of Homeland Security revealed the attack
+607,Russia’s GRU intelligence agency,Senator Claire McCaskill's 2018 re-election campaign,phishing emails designed to harvest their passwords,July 2018,Unknown,Attackers unsuccessfully targeted staffers in the Senator’s office
+608,a hacking group linked to Iran,"energy, government, finance, and telecommunications entities in the Middle East",Unknown,July 2018,Unknown,The group has been active since early 2017
+609,Russian hackers,campaigns of three Democratic candidates running for the 2018 midterm elections,Unknown,July 2018,Unknown,Microsoft was the one to reveal this information
+610,Russian hackers,Italian navy,malware designed to insert a backdoor into infected networks,July 2018,,
+611,Unknown group from China,IoT devices in Finland,Unknown,July 2018,President Trump’s summit with Vladimir Putin in Helsinki,The majority of attacks originated in China
+612,state-sponsored hackers,Singapore’s largest healthcare institution,Unknown,July 2018,Unknown,"Led to the leakage of personal information for 1.5 million patients, along with prescription details for 160,000 others"
+613,state-sponsored Russian hackers,network equipment of a chlorine plant in central Ukraine,malware,July 2018,Unknown,"The virus used in the attack is the same malware responsible for the infection of 500,000 routers worldwide"
+614,12 Russian intelligence officers,"Democratic Party, Democratic National Committee, Hillary Clinton campaign, election infrastructure, local election officials","large-scale cyber operations, theft and subsequent leakage of emails",July 2018,interfere with the 2016 Presidential election,The U.S. Department of Justice announced the indictments of the officers
+615,Chinese hackers,"political actors on both sides of the upcoming Cambodian elections, the country’s National Election Commission, several government ministries, the Cambodian Senate, at least one Member of Parliament, and multiple media outlets and human rights activists",spying,July 2018,political,The targets were not only political actors but also media outlets and human rights activists
+616,Unknown,Campaigns of at least two local Democratic candidates,DDoS attacks,July 2018,Disrupt campaign websites during periods of active fundraising and positive news publicity,The attacks were timed to coincide with periods of active fundraising and positive news publicity
+617,Chinese hackers,Australian National University (ANU),breach,July 2018,desire to siphon intellectual property,
+618,Unknown,Exactis,Data breach,June 2018,Unknown,"Exposed the information of 340 million people, including their political preferences, browsing habits, and purchase data."
+619,Russian hackers,"Ukrainian banks, energy companies, and other organizations",establishing backdoors,June 2018,preparation for a wide-scale strike against the country,
+620,Chinese hackers,"satellite, telecom, and defense organizations in the U.S. and Southeast Asia",cyber espionage,June 2018,to collect data,
+621,A Russian hacking group linked to disrupting the Peyongchang Olympics,"individuals in France, Germany, Switzerland, Russia, and Ukraine linked to a biochemical threat conference organized by a company involved in the investigation of the poisoning of Sergei Skripal",Unknown,June 2018,Unknown,"The attack was targeted at individuals linked to a biochemical threat conference, which was organized by a company involved in the investigation of the poisoning of Sergei Skripal"
+622,A Chinese hacking group,a national data center in a Central Asian country,watering hole attack,June 2018,to inject malicious code onto other government websites connecting to the data center,
+623,North Korean hackers,a South Korean think tank focused on national security issues,zero-day exploit,June 2018,Unknown,The hackers compromised the organization’s website and inserted a backdoor for injecting code
+624,Russian intelligence and military units,U.S.,cyberattacks,June 2018,Unknown,The U.S. Treasury Department announced sanctions against five Russian companies and three individuals for enabling the attacks
+625,Chinese government hackers,U.S. Navy contractor,compromised the networks,June 2018,"stealing 614 GB of data related to weapons, sensor, and communication systems under development for U.S. submarines",
+626,North Korean hackers,defectors,compromised Android apps hosted through the Google Play market,May 2018,"stealing device information and allowing the insertion of executable code stealing photos, contact lists, and text messages",Cyber security researchers reported the attack
+627,Pakistani military,"targets in the Middle East, Afghanistan, and India",Facebook Messenger to distribute spyware,May 2018,"compromise government officials, medical professionals, and others",Security researchers reveal
+628,Turkish government hackers,Turkish dissidents and protesters,surveillance software FinFisher,May 2018,to infect,
+629,An unknown group of hackers,Mexican banks,"exploiting the SWIFT transfer system, submitting a series of false transfer orders to phantom accounts in other banks and emptying the accounts in dozens of branch offices",May 2018,steal money,Stole between $18 and $20 million dollars
+630,Iranian hackers,"Diplomats in the Foreign Affairs ministries of US allies, global telecommunication companies",Sending of emails containing malware,May 2018,US withdrawal from the Iran nuclear agreement,Increase in Iranian hacking activity within 24 hours of President Trump’s announcement
+631,a hacking group connected to Russian intelligence services,business and ICS networks of electric utilities in the US and UK,conducting reconnaissance,May 2017,Unknown,The hacking activity was revealed a year later in May 2018 by researchers
+632,Unknown group from China,"Satellite, telecom, and defense organizations in the United States and Southeast Asia",Cyber espionage,April 2018,Data collection,The campaign originated in China
+633,an Indian hacking group,government agencies and research institutions in China and Pakistan,Unknown,April 2018,Unknown,The hacking has been ongoing since 2013
+634,North Korean hackers,"critical infrastructure, finance, healthcare, and other industries in 17 countries",malware resembling the code used in the 2014 Sony Pictures attack,April 2018,Unknown,Unknown
+635,Hamas,mobile phones owned by members of Fatah,spyware,April 2018,rivalry with Fatah,The attack was revealed by Israeli cyber researchers
+636,Chinese state-sponsored hacking groups,Japanese defense companies,Unknown,April 2018,to gain information on Tokyo’s policies towards North Korea,Unknown
+637,Russia,western critical infrastructure,compromising home and business routers,April 2018,deliberately targeting,US and UK officials issued a joint warning
+638,UK’s Government Communications Headquarters (GCHQ),ISIS,offensive cyber operations,April 2018,"suppress their propaganda, disrupt their coordination, and protect deployed military personnel",
+639,Russia,Germany’s domestic intelligence services,attack on the government’s computer networks,December 2017,Unknown,The chief of Germany’s domestic intelligence services accused Russia of being behind the attack
+640,Russian state actors,UK critical infrastructure,infiltrating supply chains,April 2018,Unknown,The UK’s National Cyber Security Centre released an advisory note warning about the attack
+641,Unknown,All government services of Sint. Maarten,Unknown,April 2018,Unknown,This is the third cyber attack the country has faced in just over a year
+642,The North Korean hacking group responsible for the SWIFT attacks,a Central American online casino,Unknown,April 2018,siphon funds,Unknown
+643,Chinese hackers,U.S. defense and engineering companies with ties to the South China Sea,The attacks,March 2018,sought sensitive data in line with government espionage objectives,
+644,Unknown,Online services for the city of Atlanta,Ransomware attack,March 2018,"Demanding $55,000 worth of bitcoin in payment",The city would eventually spend approximately $2.6 million recovering from the attack
+645,Unknown,Baltimore’s 911 dispatch system,Ransomware attack,March 2018,Unknown,The attack forced the city to revert to manual dispatching of emergency services
+646,Iran,"more than 300 universities, government agencies and financial services companies",stealing intellectual property,March 2018,Unknown,The US Departments of Justice and Treasury accused Iran in an indictment
+647,Russian cyber attackers,"US critical infrastructure including energy, nuclear, water, aviation, and manufacturing facilities",Unknown,March 2018,Unknown,The FBI and Department of Homeland Security issued a joint technical alert to warn of these attacks
+648,Unknown,web platform of Columbia’s national voter registry,Unknown,March 2018,Disruption of national elections,"Columbian authorities reported more than 50,000 attacks"
+649,Unknown,Under Armor,Data breach,March 2018,Unknown,Compromised the information of 150 million users of its fitness and nutrition tracking app MyFitnessPal
+650,a Chinese hacking group,service provider for the UK government,malware,March 2018,to gain access to contractors at various UK government departments and military organizations,Cybersecurity researchers reveal
+651,North Korean hacking group linked to the SWIFT financial network attacks,several major Turkish banks and government finance agencies,Unknown,March 2018,Unknown,The same group that attacked the SWIFT financial network is now targeting Turkish financial institutions
+652,North Korean hackers,email accounts of the members of a UN panel enforcing trade sanctions against North Korea,Unknown,March 2018,Unknown,A UN report details the attempts
+653,a Russian hacking group,online networks of Germany’s foreign and interior ministries,breached,February 2018,exfiltrating at least 17 gigabytes of data,intrusion that went undetected for a year
+654,13 Russians and three companies,2016 US presidential elections,online efforts,February 2018,to interfere in the 2016 US presidential elections,The Justice Department indicted the hackers
+655,Russia,US and UK,NotPetya ransomware attack,June 2017,Unknown,The attack caused billions of dollars in damages across the world
+656,Russia,Pyeongchang Olympic Games,cyberattack,February 2018,Unknown,The attack took the official Olympic website offline for 12 hours and disrupted wifi and televisions at the Pyeongchang Olympic stadium.
+657,Russian hackers,voter registration rolls of several US states,Unknown,February 2018,Unknown,The hacking occurred prior to the 2016 election
+658,Chinese hackers,U.S. Navy contractor working for the Naval Undersea Warfare Center,infiltration,January 2018,"To steal 614 gigabytes of material related to a supersonic anti-ship missile for use on U.S. submarines, submarine radio room information related to cryptographic systems and the Navy submarine development unit’s electronic warfare library","The stolen data included information about a supersonic anti-ship missile for use on U.S. submarines, submarine radio room information related to cryptographic systems and the Navy submarine development unit’s electronic warfare library"
+659,China,African Union,"Bugged offices, Access to confidential information through supplied computer network",January 2018,Unknown,China had built the AU headquarters
+660,Unknown,A Japan-based cryptocurrency exchange,hack,January 2018,Stealing $530 million worth of the cryptocurrency NEM,Possibly the largest cryptocurrency heist of all time
+661,Unknown,a Norwegian hospital system,very professional attempt,January 2018,connected to the upcoming NATO Trident Juncture 18 military exercise,Norwegian officials discover the attack
+662,A hacking group with ties to the Lebanese General Directorate of General Security,"journalists, military officers, corporations, and other targets in 21 countries worldwide","steal text messages, call logs, and files",January 2018,Unknown,The hacking campaign lasted for six years
+663,unknown actors,The Unique Identification Authority of India and its Aadhaar system,hacking,January 2018,to make personal data available for purchase,more than 1 billion people's personal data was made available for purchase
+664,Unknown,Schneider Electric,Malware,December 2017,Nation-state sponsored attack,The attack forced the shutdown of a power plant in the Middle East
+665,China Aerospace Science and Industry Corporation (CASIC),Taiwan's e-Gate border control system,Pre-installed backdoors in biometric equipment,December 2017,Gather private data on both Taiwanese and foreign citizens traveling in and out of the country,The system has been compromised since its installation in 2012
+666,Iranian hackers,"academic researchers, human rights activists, media outlets, and political advisors",fake social network profiles and a fake news site,December 2017,,
+667,Three Chinese nationals employed at a China-based Internet security firm,"Siemens, Moody’s Analytics, and Trimble","computer hacking, theft of trade secrets, conspiracy, and identity theft",November 2017,Unknown,The hackers were indicted by a US grand jury
+668,Unknown,Uber,Data theft,November 2017,Financial gain,"Uber paid hackers $100,000 to delete the stolen data of 57 million of its customers and drivers, including names, phone numbers, email addresses, and license plate numbers."
+669,a sophisticated Vietnamese hacking group,"the ASEAN organization, foreign corporations with an interest in Vietnamese industries, and media, human rights, and civil society organizations",cyber espionage campaigns,November 2017,Unknown,Unknown
+670,creators of NotPetya,"media organizations, train stations, airports, and government agencies in Russia and Eastern Europe","ransomware infections, leaked NSA-linked exploits, phishing campaign",October 2017,gain remote access to financial and other confidential data,the ransomware was a cover for a quiet phishing campaign
+671,Unknown,Yahoo,Unknown,October 2017,Unknown,"Yahoo updated the previous projections of 1 billion accounts affected in its massive 2013 breach, acknowledging that all 3 billion accounts were compromised."
+672,Russian hackers,potential attendees of CyCon,not specified,October 2017,not specified,CyCon is a cybersecurity conference organized by the US Army and the NATO CCD COE
+673,Russia-linked hackers,industrial control systems at US energy companies and other critical infrastructure organizations,Unknown,October 2017,Unknown,DHS and FBI reports warn of the attack
+674,Russian hackers,Companies in Poland,Unknown,October 2017,Part of a larger campaign against Eastern European corporations,This was the third hacking attempt against Poland
+675,North Korean hackers,US electric companies,spear-phishing campaign,October 2017,probe utilities’ defenses,
+676,North Korean hackers,South Korea’s defense data center,broke into,October 2017,"stole a large trove of sensitive documents, including joint U.S.- South Korean blueprints for war on the peninsula",The hacking took place over the course of a year
+677,China,U.S. think tank and law firm,cyberattack,October 2017,both involved with fugitive Chinese tycoon Guo Wengui,
+678,Unknown,Australian national security contractor,Unknown,October 2017,Stealing data related to the development of the F-35 Joint Strike Fighter,"The Australian Government revealed that the hack occurred in 2016, but it was only made public in 2017"
+679,Russian government-backed hackers,NSA,exploiting the Kaspersky antivirus software,October 2017,to steal NSA hacking secrets,The attack was carried out on a contractor’s home computer
+680,An Iranian hacking group,"the aerospace industry in the U.S. and Saudi Arabia, as well as petrochemical firms in South Korea",espionage campaign,September 2017,Unknown,Unknown
+681,APT34,Saudi Arabia,spear-phishing,June 2019,espionage,APT34 is believed to be sponsored by the Iranian government
+682,Russia,personal smartphones of NATO soldiers deployed to Poland and the Baltic states,compromised,September 2017,,
+683,US Cyber Command,North Korea's the Reconnaissance General Bureau,denial-of-service attacks,September 2017,,
+684,China,20 major international technology firms,inserted malware into widely used PC management tool,September 2017,Unknown,Unknown
+685,Unknown,The SEC,Cyber intrusion,September 2017,Illicit trading,The cybercriminals accessed the agency’s files in 2016 and used the information gathered for illicit trading
+686,Unknown,Equifax,Data breach,September 2017,Unknown,"The breach revealed 143 million people’s full names, social security numbers, birth dates, home addresses and driver’s license numbers, as well as 209,000 credit card numbers."
+687,Unknown,Cambodia,Malware infections,September 2017,Surveil dissidents and disrupt domestic political activity,The attack was politically motivated
+688,Unknown,Estonian e-ID cards,Exploiting a vulnerability,August 2017,Unknown,"The government replaced the compromised cards in late 2017, but claims that no cards were ever hacked."
+689,North Korea,South Korean Bitcoin exchanges,Unknown,August 2017,Unknown,South Korea’s Cyber Warfare Research Center reports the attack
+690,A state-sponsored spyware campaign,Indian and Pakistani government security and military organizations,spyware,August 2017,Unknown,Unknown
+691,Unknown,The Scottish Parliament,brute force cyberattack,August 2017,Unknown,The attack was similar to the one that compromised the British Parliament in June.
+692,Unknown,The Swedish Transport Agency’s outsourced data,Unknown,July 2017,Unknown,The hack potentially compromised confidential information and classified information on military plans.
+693,China,Southeast Asian military and government organizations,over 600 strains of malware,July 2017,conduct espionage operations,Security researchers revealed details of a wide-ranging malware campaign
+694,state-sponsored hackers,Industrial Control Systems of UK energy companies,Unknown,July 2017,Unknown,GCHQ issued a warning about the attack
+695,an Iran-linked cyber espionage group,"government institutions, defense companies, IT firms",spear phishing and watering hole attacks,July 2017,cyber espionage,"The group has been active since 2013 and has targeted entities in Israel, Saudi Arabia, the US, Germany, Jordan, and Turkey"
+696,Unknown,US energy facilities including the Wolf Creek Nuclear Operating Corporation,Unknown,July 2017,Unknown,The FBI and DHS announced that hackers had been targeting US energy facilities
+697,North Korea,South Korea,malware campaign,July 2017,Unknown,The malware used had previously been used in three other campaigns linked to North Korea
+698,Unknown,"A partner of UniCredit, Italy’s largest bank",Unknown,July 2017,Unknown,"Gained access to loan and biographical data from 400,000 client accounts"
+699,Russian hackers,Wi-Fi servers in European and Middle Eastern hotels,leaked NSA tools,July 2017,targeting top diplomats and industrial leaders,
+700,hackers in the United Arab Emirates,Qatari state-run media websites,posting fake news and attacking,July 2017,to widen a rift between Gulf states,The Qatari government accused
+701,Mexican government,"human rights lawyers, journalists, and anti-corruption activists",spyware,June 2017,Unknown,The New York Times revealed this information
+702,North Korean government,"media, financial, aerospace, and critical infrastructure organizations worldwide",DDoS botnet infrastructure,June 2017,Unknown,US-CERT identified the North Korean government as being behind the attack
+703,A Russia-linked hacking group,Montenegro,spear-phishing campaign,June 2017,the country announced its decision to join NATO,
+704,Unknown,Danish shipping giant Maersk,NotPetya ransomware attack,June 2017,Unknown,"The attack shut down the port terminals of Maersk for two days, causing an estimated $300 million in associated costs"
+705,Russian hackers,"Ukrainian infrastructure, including power companies, airports, and public transit",updated ransomware program,June 2017,,
+706,Iranian state actors,90 British members of parliament,brute-force attack,June 2017,Unknown,The email accounts of the members of parliament were hacked
+707,Boyusec,three companies,compromised the networks,May 2017,"gained access to confidential documents and data, including sensitive internal communications, usernames and passwords, and business and commercial information",The attack started in 2011 and lasted for a multi-year period
+708,an Iran-linked group,"multiple Israeli IT vendors, financial institutions and the national post office",hacking campaign,May 2017,Unknown,Unknown
+709,Shadow Brokers,99 countries,ransomware campaign,May 2017,Unknown,The attack used a vulnerability revealed in the Shadow Brokers’ April 2017 dump of NSA tools
+710,Israel,Lebanese telecoms network,sending audio and WhatsApp messages,May 2017,claiming that Hezbollah’s leader was behind the death,"10,000 people were targeted"
+711,An Iranian hacking group,a U.S. military contractor,using Russian tools,May 2017,,
+712,Unknown (linked to Russia),Campaign of French president-elect Emmanuel Macron,Email and document leak,May 2017,Influence election,The leak totaled 9 gigabytes
+713,Iranian cyberattack campaign,"120 targets in the government, high-tech, medical, and education sectors",Unknown,April 2017,Unknown,The Israeli Cyber Defense Authority defended the attack
+714,state-sponsored hackers,EirGrid,virtual wiretap,April 2017,Unknown,The attack allowed access to the company’s unencrypted communications
+715,The Lazarus Group,US defense contractors,spear phishing campaign,April 2017,Unknown,The Lazarus Group is thought to be associated with North Korea
+716,Unknown group from China,"Construction, engineering, aerospace and telecom companies, as well as government agencies in the U.S., Europe, and Japan",Cyber-espionage,April 2017,Unknown,The campaign is growing
+717,Russia espionage group,Defense Ministry email accounts,Unknown,April 2017,Unknown,The group was unable to retrieve classified information
+718,The Shadow Brokers,NSA,Hacking tools,April 2017,Unknown,The NSA had gained access to SWIFT messages
+719,Chinese,"South Korean military, government and defense industry networks",Unknown,April 2017,Deployment of the THAAD missile defense system in South Korea,The rate of attacks increased after the February announcement of the THAAD deployment
+720,Russian hackers,Twitter users in the Department of Defense,spear-phishing messages,March 2017,gain access to the victim’s device and Twitter account,"More than 10,000 Twitter users were targeted"
+721,two Russian intelligence agents and two criminal hackers,Yahoo,not specified,September 2014,not specified,The hack compromised 500 million user accounts
+722,96 suspects,"servers of social media, gaming and video streaming sites",hacking,March 2017,"stealing personal information, and posting the information for sale on online forums",Chinese police arrested the suspects
+723,Wikileaks,CIA,Releasing hacking tools,March 2017,Unknown,The release reflected several hundred million lines of CIA-developed code
+724,An Iranian hacker group,actors associated with the U.S. defense industrial base and at least one human rights activist,campaign to steal credentials and other data,February 2017,to steal credentials and other data,
+725,An Iranian cyber espionage campaign,"the energy, government, and technology sectors of Saudi Arabia",Unknown,February 2017,Unknown,Unknown
+726,A suspected Russian hacker,"60 universities and US government organizations including HUD, NOAA, Cornell University, and NYU",SQL injections,February 2017,Unknown,This follows up a hack by the same actor against the U.S. Electoral Assistance Commission in December 2016
+727,Unknown,Indian Central Bureau of Investigation and Army officers,phishing campaign,February 2017,Unknown,The attack was purportedly mounted by Pakistan
+728,Unknown,Singaporean military’s web access system,Unknown,February 2017,Likely state sponsored,Stole the personal information of 850 people
+729,Unknown,"70 mostly Ukrainian targets in the fields of critical infrastructure, news media, and scientific research",sophisticated malware operation,February 2017,Unknown,Extracted over 600 gigabytes of data
+730,Russia,Swedish foreign policy institute,"information warfare campaign, using fake news, false documents, and disinformation",January 2017,weaken public support for Swedish policies,
+731,Russian hackers,"Ukraine’s national power company, Ukrenergo",shut down power,December 2016,Unknown,The attack resulted in a power outage in northern Kiev for over an hour
+732,Unknown,The Society for Worldwide Interbank Financial Telecommunication (SWIFT) customers,Sophisticated hacking,December 2016,Stealing funds,A fifth of the attacks had resulted in stolen funds
+733,Unknown,Yahoo,Intrusion,December 2016,Financial gain,"The data was posted for sale for $200,000 or best offer on underground forums"
+734,Unknown,San Francisco Municipal Transportation Agency (the Muni),Indiscriminate attack,November 2016,Ransom,"The Muni offered customers free rides for two days, until administrators restored its systems without paying the demanded $73,000 ransom."
+735,Unknown,AdultFriendFinder,Unknown,November 2016,Unknown,"Compromised 412 million users and published their emails, passwords, member status and purchases online"
+736,Unknown,Four Saudi Arabian government agencies including Saudi’s General Authority of Civil Aviation,Shamoon virus,November 2016,Unknown,The attack wiped data on thousands of computers
+737,A cyber mercenary contracted by a rival firm,a Liberian telecom company,botnet,October 2016,contracted by a rival firm,rendering half the country unable to access the internet
+738,Unknown,a major Brazilian bank,Seizing the bank's Domain Name System addresses,October 2016,Unknown,The hackers controlled the bank's entire online footprint for several hours
+739,Russia,Democratic National Committee,Hacking and using WikiLeaks to dump emails,October 2016,Unknown,The U.S. Director of National Intelligence and Department of Homeland Security jointly identified the hacker
+740,Unknown,Japanese Defense Ministry and Self-Defense Forces (SDF) communications networks,Unknown,September 2016,Unknown,The networks linking SDF bases and camps were compromised.
+741,state-sponsored actor,Yahoo,intrusion into network,September 2016,Unknown,"The attack gave hackers access to 500 million users’ usernames, email addresses, phone numbers, dates of birth, passwords, and a mix of encrypted and plaintext security questions and answers."
+742,Shadow Brokers,NSA,Unknown,August 2016,Unknown,Published a collection of NSA tools on Pastebin
+743,Brazilian hackers,tourists visiting Rio de Janeiro for the 2016 Olympics,phishing attacks,August 2016,financial fraud,Security researchers ranked Brazil second only to Russia in the sophistication of its financial fraud gangs
+744,A cybercriminal gang from Russia,Oracle’s systems,POS malware,August 2016,gain access to financial information in data breaches at major retailers,The hackers possibly intended to install malware on point-of-sale (POS) systems
+745,China,Two Hong Kong government agencies,Unknown,August 2016,"Not mentioned, but the attack came weeks before legislative elections in Hong Kong",The attack happened just before the legislative elections in Hong Kong
+746,Unknown,India’s Scorpene submarines designs and data,Leak,August 2016,Unknown,"The leak originated from the French shipbuilder DCNS, which also builds submarines for Malaysia and Chile, and recently won contracts to build submarines for Brazil and Australia."
+747,Russian intelligence agencies,Democratic National Committee,"release of 20,000 emails",July 2016,Unknown,Unknown
+748,Unknown,68 Philippine government websites,DDOS attacks,July 2016,The United Nations International Arbitration court released its decision ruling in favor of the Philippines on the West Philippine Sea territorial dispute,The attack happened on the same day the UN court released its decision
+749,Unknown nation-state,Specific European energy companies,Cyberespionage malware with a dropper,July 2016,Battlespace preparation,The malware may have originated in Eastern Europe
+750,A Chinese cyber espionage group,"defense industries in Russia, Belarus, and Mongolia",APTs using phishing campaigns,July 2016,to exfiltrate data,
+751,Suspected Russian hackers,Turkish Prime Minister’s office and the German Christian Democratic Union party,The attacks targeted personal email accounts and attempted to obtain login credentials,May 2016,,
+752,Unknown group from Iran,"Government and business targets in multiple countries, as well as targets inside of Iran",Espionage campaign,May 2016,Unknown,The operation was conducted over the course of a decade
+753,Russia,German Bundestag,cyber attacks,May 2016,made off with an undisclosed amount of data,Germany’s domestic intelligence agency accused Russia of perpetrating a series of cyber attacks
+754,possibly Iran,Saudi Arabian communications and defense organizations,hacked,May 2016,Unknown,Unknown
+755,Chinese government hackers,U.S. Steel,stealing proprietary information,April 2016,benefit of Chinese steel producers,The stolen information was about steel production techniques
+756,a Russian cyber espionage group,The German Christian Democratic Union,credential phishing attack,April 2016,,
+757,Unknown,The Philippine Commission on Elections’ (COMELEC) database,breach,April 2016,Unknown,"Exposed the personal information of all 55 million registered Filipino voters, including fingerprint data, passport numbers and expiry dates, and intentions to run for office."
+758,Unknown,research centers and government agencies (including telecommunication service providers in South and Southeast Asia,Unknown,April 2016,Unknown,The hack group has been active since 2009
+759,North Korean hackers,database of a South Korean shipbuilder,stole warship blueprints,April 2016,Unknown,Unknown
+760,Unknown,MedStar Health-operated hospitals in Maryland and Washington,Ransomware attack,March 2016,Unknown,The attack crippled the hospitals
+761,North Korean hackers,smartphones of a dozen South Korean officials,broke into,March 2016,"accessing phone conversations, text messages, and other sensitive information",
+762,Unknown,21st Century Oncology,Unknown,March 2016,Stealing personal information of patients,2.2 million patients’ personal information may have been stolen
+763,Unknown,Finland’s foreign ministry,Unknown,March 2016,Unknown,The breach in their computer network lasted for four years
+764,Russian tax fraud operation,Internal Revenue Service (IRS),breach of systems,May 2015,tax fraud,"over 700,000 American taxpayers were compromised"
+765,Unknown,U.S. Department of Justice’s database,Unknown,February 2016,Unknown,"The hackers stole and released the names, phone numbers, and email addresses of 30,000 DHS and FBI employees."
+766,Unknown,The Society for Worldwide Interbank Financial Telecommunication (SWIFT) customers,Sophisticated hacking,February 2016,Stealing funds,A fifth of the attacks had resulted in stolen funds
+767,Unknown,FACC,Cyberattack,January 2016,Financial gain,"The attackers ignored FACC’s intellectual property or proprietary data, and business operations were not affected."
+768,United States and Britain,Israel’s surveillance drones,Unknown,January 2016,Unknown,Unknown
+769,Unknown,Chief of Sri Lanka’s Financial Crimes Investigation Division's private email account,Hacking,January 2016,Attempt at embarrassment motivated by an ongoing crackdown by the department,The target was a high-ranking official in a financial crimes investigation department
+770,Azerbaijani hackers,Armenian diplomatic missions in 40 countries,websites defaced,January 2016,Unknown,Unknown
+771,right-wing extremists,The Czech Republic’s Prime Minister's twitter and personal email account,hacking,January 2016,Unknown,Unknown
+772,Russian hackers,regional power distribution companies in Western Ukraine,"Malware, denial of service attack",December 2015,"To probe for network vulnerabilities, establish command and control, and wipe SCADA servers to delay restoration","Approximately 225,000 Ukrainians were affected, but service was restored after 3-6 hours"
+773,Unnamed sources attributing to China,The Australian Bureau of Meteorology,Unknown,December 2015,Unknown,The attack happened the previous year
+774,North Korea’s General Reconnaissance Bureau,"National Assembly, the Ministry of Unification, and the Blue House",hacks,October 2015,Unknown,The ROK National Intelligence Service attributed the hacks
+775,A teenage hacker,Verizon and AOL customer service,tricked,October 2015,to gain access,
+776,Iran’s Revolutionary Guard,email and social media accounts of a number of Obama administration officials,hacking,November 2015,believed to be related to the arrest of an Iranian-American businessman in Tehran,
+777,Spies,"German, French, and Japanese submarine builders",Hacking,November 2015,To gain information on the contract to build Australia’s new submarine fleet,The targets were bidding for a contract to build Australia’s new submarine fleet
+778,a Chinese hacking group,"government civilian and military agencies in the United States and other industries, including corporations conducting solar cell research",cyberattacks,November 2015,Unknown,The attack was identified by Dutch security firm Fox-IT
+779,Unknown,Dutch Safety Board and other parties involved in investigating the crash of flight MH17,Unknown,September 2015,Unknown,The target was involved in a high-profile investigation
+780,Mallu Cyber Team,Multiple Pakistani government websites,,September 2015,,
+781,The Dukes,"foreign governments and think tanks in Europe, Central Asia, and the United States",Unknown,September 2015,Unknown,The group has been active for over seven years
+782,Unknown,Members of the Iranian diaspora and at least one Western activist,Phishing campaign,August 2015,Seeking two-factor authentication credentials,Unknown
+783,Unknown,The website of the Permanent Court of Arbitration in The Hague,Malware,July 2015,Connected to hearings regarding China’s claims to territory in the South China Sea,The breach was traced back to an IP address in China
+784,Russia,Joint Chiefs of Staff unclassified email servers,spear phishing attack,July 2015,Unknown,"The system was shut down for 11 days affecting the work of roughly 4,000 military and civilian personnel. China has not been ruled out as the perpetrator."
+785,the same group suspected of the Office of Personnel Management hack,United Airlines,hacking computer systems,May or early June 2015,compromising manifest data that detailed the movements of millions of Americans,"The report, citing “several people familiar with the probe,” stated that the group behind this attack is the same group suspected of the Office of Personnel Management hack discovered in June."
+786,Unknown,Hacking Team,Unknown,July 2015,Unethical sale of surveillance technology worldwide,"Confidential documents leaked by the hackers appeared to show Hacking Team’s material support for authoritarian governments such as those in Sudan, Ethiopia, Morocco, and the United Arab Emirates."
+787,Anonymous,"Canadian Security Intelligence Service (CSIS) and the general Canadian government website, Canada.ca",DDOS attacks,June 2015,"Canada’s recently passed Anti-terrorism Act, 2015","The attacks also reportedly affected email, Internet access and IT services in the government"
+788,Unknown,Japan Pension Service (JPS),Unknown,June 2015,Unknown,Resulted in the exfiltration of personal data belonging to 1.25 million people
+789,Iranian cyber espionage campaign,over 500 organizations,cyber espionage,June 2015,"espionage on diplomacy, defense and security, journalism & human rights, and other fields",Most of the targeted organizations were in the Middle East
+790,Unknown,The Office of Personnel Management,Hacking,June 2015,Unknown,"The Office of Personnel Management was hacked twice in the last year resulting in the loss of 25.6 million records, 19.7 million of which involved background investigation records for cleared U.S. government employees."
+791,Kremlin,lower house of parliament on the Bundestag network,malware,June 2015,"exfiltrated data from over 20,000 accounts",the malware involved closely resembles that used in a 2014 attack on a German data network
+792,OceanLotus,"marine agencies, research institutions and shipping companies",espionage program,June 2015,Unknown,The program has been operating since 2012
+793,U.S.,North Korea,Stuxnet-like attacks,June 2015,Unknown,The attacks were not successful
+794,Unknown,Pacnet’s business management systems,malicious software,May 2015,Access sensitive data,The attack was on a Hong Kong-based undersea cable company
+795,Chinese hackers,United Airlines,exfiltrated,May 2015,Unknown,significant amounts of customer data was stolen
+796,Chinese intelligence officers,U.S. and European aerospace firms,infiltrated networks and exfiltrated trade secret information,May 2015,to obtain trade secret information about turbofan engines,The hacking operation lasted over the course of five years
+797,Russian hackers,online IRS system,hack,May 2015,$50 million loss,the IRS blames the hack on Russian hackers
+798,The Yemen Cyber Army,server belonging to the Saudi Ministry of Foreign Affairs,breached,May 2015,Unknown,"The hackers leaded the alleged login credentials of Saudi Officials, as well as usernames, phone numbers, and email addresses"
+799,Russian hackers,an unclassified network within the DOD,Unknown,April 2015,Unknown,Pentagon officials were able to block the hackers’ access within 24 hours
+800,ISIS,French public television network TV5 Monde,defaced TV5 Monde’s website and social media accounts with pro-ISIS imagery,April 2015,pro-ISIS propaganda,The hackers took off the air 11 of the networks’ channels
+801,Unknown,White House networks and State Department's network,Unknown,April 2015,Access to sensitive information such as real-time non-public details of the president's schedule,The State Department's network has had continued trouble in ousting attackers
+802,An Iranian hacking group,"defense, IT, government, and academic targets in Europe and the Middle East",spear-phishing campaign,March 2015,,
+803,Chinese hackers,U.S. hosting site GitHub,a wide combination of attack vectors,March 2015,the attack targeted pages for two GitHub users – GreatFire and the New York Times’ Chinese mirror site – both of which circumvent China’s firewall,used new techniques to involve unsuspecting web users in the flood of traffic to the site
+804,Unknown,"Anthem, a U.S. health insurance company",Hacking an unencrypted database,February 2015,Theft of 80 million customers’ personally identifiable information,This may have been part of a larger campaign that included the OPM hack
+805,French government,Canada’s Communication Security Establishment,Malware (Babar and EvilBunny),February 2015,Espionage,"Babar’s primary function is to exfiltrate documents, but it can also log keystrokes, monitor a user’s web history, intercept and record communications made via Skype and messenger programs."
+806,Unknown,German steel mill,Disruption of control systems,January 2015,Unknown,"This attack caused physical destruction, making the steel mill the second recorded victim of such an attack."
+807,Iranian hackers,a major Las Vegas casino,Unknown,December 2014,retaliation for its owner’s support for Israel,Unknown
+808,An Iranian cyber campaign,government agencies and critical infrastructure companies,Unknown,December 2014,Unknown,"The attack was widespread, targeting multiple regions including the United States, Canada, Europe, the Middle East, and Asia."
+809,North Korea,Sony Pictures Entertainment,malware,November 2014,Unknown,The malware deleted data and posted online employees’ personal information and unreleased films
+810,North Korean hackers,a British production company,Unknown,November 2014,planning to release a television series revolving around the imprisonment of a British nuclear scientist in the DPRK,The attack caused the cancellation of the series
+811,foreign intelligence services,human rights organizations,readily available crime ware as well as specially designed programs,November 2014,not specified,intrusion lasting for years
+812,Unknown,U.S. Postal Service servers,Hacking,October 2014,Unknown,"Exposed employees' names, addresses, and Social Security numbers"
+813,Unknown,The National Oceanic and Atmospheric Administration (NOAA) at the U.S. Department of Commerce,Unknown,October 2014,Unknown,The hack skewed the accuracy of some National Weather Service forecasts
+814,Unknown,Department of State's unclassified networks,Unknown,October 2014,Unknown,The Department of State had to shut down its entire unclassified email system to repair possible damage
+815,Unknown,White House computer network,Suspicious cyber activity,November 2014,Unknown,No classified networks had been breached at the White House
+816,Unknown,Chinese users' iCloud accounts,Redirecting to a false iCloud login page,October 2014,"Monitoring activities and stealing usernames, passwords, files, and contacts","The attack puts iCloud usernames, passwords, files, and contacts at risk"
+817,Unknown,Dairy Queen outlets,Exploited a third party system,October 2014,Customer credit card data,Ten percent of Dairy Queen outlets are hacked
+818,Russia,"NATO, the EU and the Ukrainian government",exploits a zero-day vulnerability in Windows software,October 2014,cyber espionage,A five-year cyber espionage campaign
+819,Unknown,Australian mining and natural resources companies and their associated legal and financial advisors,Unknown,October 2014,During sensitive business negotiations,Unknown
+820,Unknown,industrial control systems of the pharmaceutical sector,malware,September 2014,intellectual property theft,Researchers stated the purpose of the attack was to achieve intellectual property theft.
+821,likely of Chinese origin,Hong Kong protestors,A false Occupy Central smartphone app with audio recording capabilities,September 2014,"accesses users' locations, call and message logs, and browser histories",
+822,Unknown,"300 government and company websites in Germany, Austria and Switzerland",Using fraudulently obtained certificate,September 2014,Unknown,The operation was multiyear
+823,Unknown,Home Depot,Server breach,September 2014,Unknown,Affected 56 million debit cards in the U.S. and Canada
+824,suspected Chinese hackers,Community Health Systems,infiltrated its network and stole personal information,August 2014,steal personal information from 4.5 million patients,
+825,Unknown,The contractor responsible for security clearances at DHS,Network hacking,August 2014,Compromise employee personal information,This was one of the first steps in the 2015 OPM hack
+826,Hackers in Eastern Europe,"energy sectors in the U.S., Spain, France, Italy",breached,July 2014,Unknown,Unknown
+827,Unknown,"Germany, Turkey, and Poland",Unknown,Unknown,Cyberespionage,Unknown
+828,Unknown,U.S. Office of Personnel Management networks,Unknown,July 2014,Unknown,The networks contain information on thousands of applicants for top secret clearances
+829,PLA,"National Research Council, Canada",cyber espionage,July 2014,Unknown,Canada’s Foreign Minister asked his Chinese counterpart about the attack
+830,Unit 61398,U.S. corporations in the satellite industry,Unknown,June 2014,Unknown,CrowdStrike reported the attack
+831,Alleged Chinese hackers,Alcoa,spear phishing,May 2014,to access the network of Alcoa,"The hackers stole 2,907 emails and 863 attachments"
+832,People’s Liberation Army Unit 61398,"six American companies in the power, metals, and solar production industries",stole trade secret information,May 2014,steal trade secret information,The U.S. Department of Justice indicted them
+833,An Iranian hacking group,the U.S. industrial base and also targets inside Iran,espionage attacks,April 2014,espionage,
+834,Unknown,Indian Army and DRDO computers,Spyware,March 2014,Unknown,The spyware could read the files of computers not even connected to internet
+835,Chinese hackers,OPM contractor responsible for U.S. security clearance background investigations,breached,March 2014,Unknown,Unknown
+836,Cybercriminals,Target,Unknown,March 2014,Unknown,"40 million credit card numbers were stolen, with an additional 70 million accounts compromised."
+837,Unknown,28 embassies in Tehran,emails about the Syrian conflict that contained a new data-mining malware,January 2014,Unknown,Unknown
+838,Unknown,Finland's diplomatic communications,Unknown,November 2013,Unknown,Finland's Foreign Minister reported the breach
+839,Vietnamese cyber criminals,"personal records, including Social Security numbers, credit card data, and bank account information",Unknown,October 2013,Unknown,obtained as many as 200 million personal records
+840,NSA,German Chancellor Merkel’s mobile phone,Unknown,October 2013,Unknown,This was part of a larger series of leaks on NSA activities
+841,Iran,U.S. Navy's unclassified networks,Hacking,September 2013,Unknown,Unknown
+842,Chinese hackers,"U.S. Defense Industries, companies in key industries (telecommunications, computer hardware, government contractors, aerospace), U.S. civil aviation sector",malware ‘Sykipot’,September 2013,Unknown,In mid-2013 they targeted the U.S. civil aviation sector
+843,Chinese hackers,"three U.S. organizations, including a large American oil and gas corporation",Unknown,September 2013,Unknown,Unknown
+844,North Korea,"South Korean targets, including think tanks, the South Korean Ministry of Defense, and Koreans defense industry firms",hacks,September 2013,,
+845,The Syrian Electronic Army,major Western social media and media sites,hijacks and reroutes,August 2013,Unknown,The sites were rerouted to a malicious hosting site in Russia
+846,Unknown,China’s .cn country code top level domain,DDOS,August 2013,Unknown,The attack was massive enough to take down the domain for several hours
+847,PLA hackers,U.S. Transportation Command,infiltrated the computer networks,June 2013,stole sensitive military information,
+848,five Ukrainian and Russian hackers,credit card numbers,Unknown,June 2013,financial gain,caused hundreds of millions in losses
+849,NSA,Chinese targets,cyber espionage,June 2013,espionage,"The information was revealed by Edward Snowden, a former systems administrator at the NSA"
+850,An alleged Chinese hacker,the Australian Security Intelligence Organization’s new $631 million building,steals the blueprints,May 2013,Unknown,Unknown
+851,Syrian Electronic Army,water supply to the city of Haifa,Unknown,May 2013,Unknown,The attack was reported by Israeli officials and was unsuccessful
+852,Iran,U.S. electrical grid,probing,May 2013,Unknown,The U.S. electrical grid is constantly being probed by multiple actors
+853,India,"Pakistani mining, automotive, legal, engineering, food service, military, and banks",zero-day exploit,May 2013,,
+854,The Syrian Electronic Army,Saudi Arabian Ministry of Defense email system,breached and leaked,May 2013,Unknown,Several confidential emails were leaked
+855,unknown hackers,major automotive parts suppliers in North American and Europe,Unknown,May 2013,Unknown,Unknown
+856,Anonymous’ Saudi branch,"government web sites, including the Ministry of Foreign Affairs, Ministry of Finance, and the General Intelligence Presidency",DDos attack,May 2013,Unknown,The operation was named OpSaudi
+857,gang of eight hackers,banks in the UAE and Oman,eliminated the withdrawal limits on prepaid debit cards,May 2013,to extract $45 million,The attacks permitted the hackers to withdraw massive amounts
+858,Unknown,website of the Iranian Basij military branch (basij.ir),DDoS attack,May 2013,Unknown,Unknown
+859,Chinese hackers,"U.S. Department of Labor and at least nine other agencies, including the Agency for International Development and the Army Corps of Engineers’ National Inventory of Dams",compromise,May 2013,,
+860,Unknown,Android mobile devices,Malware,April 2013,Unknown,The attack was primarily targeted at Russia and Russian speaking countries
+861,The Syrian Electronic Army,major Western media organizations,hacked,March 2013,propaganda campaign,a pro-Assad hacktivist group
+862,Chinese hackers,"civilian and military maritime operations within the South China Sea, U.S. companies involved in maritime satellite systems, aerospace companies and defense contractors",Unknown,March 2013,Unknown,The attack started in 2012
+863,Unknown,Indian Defence Research Organization,Unknown,March 2013,Unknown,"Thousands of documents were uploaded to a server with an IP address in Guangdong, China"
+864,United States and South Korea,North Korea,series of attacks,March 2013,Unknown,The attacks severely restricted Internet access in North Korea
+865,Unknown group from North Korea,South Korean television networks and banks,Malware designed to evade popular South Korean anti-virus software,March 2013,Unknown,The malware was specifically designed to evade popular South Korean anti-virus software
+866,Unknown cyber criminals,23 gas pipeline companies,Unknown,Between December 2011 and June 2012,Steal information that could be used for sabotage purposes,Forensic data suggests the probes originated in China
+867,Chinese hackers,EADS and German steelmaker ThyssenKrupp,major attacks,February 2013,Unknown,Der Spiegel reveals the attack
+868,Presumed Chinese hackers,"The New York Times, Wall Street Journal, Washington Post, and Bloomberg News",persistent cyberattacks,January 2013,Unknown,Unknown
+869,Unknown,Japanese Ministry of Foreign Affairs (MOFA),Unknown,January 2013,Unknown,"Lost at least twenty documents, including highly classified documents"
+870,Izz ad-Din al-Qassam,US Bank websites,distributed denial-of-service attacks,January 2013,Operation Ababil phase two,
+871,Chinese hackers,"U.S. weapons systems designs including for the PAC-3, THAAD, Aegis, F/A-18 fighter jet, V-22 Osprey, Black Hawk, and Littoral Combat Ship",Unknown,January 2013,Unknown,A Defense Science Board report found the hacking activity
+872,Al-Qaida,Al-Qaida websites,Unknown,December 2012,Unknown,The websites were taken offline for two weeks
+873,Unknown,Two power plants in the U.S.,unprotected USB drives,December 2012,Unknown,Unknown
+874,Unknown,"Embassies, research firms, military installations, energy providers, and critical infrastructure in Eastern Europe, Russia, and Central Asia",Virus,October 2012,Unknown,The attack was discovered by a Russian cybersecurity firm
+875,Izz ad-Din al-Qassam,"Bank of America, New York Stock Exchange, Chase Bank, Capital One, SunTrust, and Regions Bank",sustained denial-of-service attacks,September 2012,Unknown,Operation Ababil was linked to Iran
+876,Chinese hackers,Telvent Canada,infiltration,September 2012,steal data related to SCADA systems,The attack affected systems throughout North America
+877,Cutting Sword of Justice,"Aramco, RasGas",Shamoon virus,August 2012,Unknown,"The attack deleted data on 30,000 computers and infected control systems without causing damage"
+878,state actors,Indian government networks,email hacking,July 2012,Unknown,"Over 10,000 email addresses of top Indian government officials were hacked, including officials in the Prime Minister’s Office, Defense, External Affairs, Home, and Finance ministries, as well as intelligence agencies."
+879,Unknown,American infrastructure companies,Unknown,July 2012,Unknown,There had been a 17-fold increase in cyber incident at American infrastructure companies between 2009 and 2011
+880,Unknown,Indian Eastern Naval Command headquarters,Virus via infected USB drives,July 2012,Collecting data from sensitive computer systems,The data was sent to Chinese IP addresses
+881,Unknown,"Critical infrastructure engineering firms, government agencies, financial houses, and academia",Trojan nicknamed 'Mahdi',July 2012,Data gathering,The virus contains Persian language strings and the targets were predominantly in Israel and Iran
+882,Unknown,A London-listed company,State cyberattacks,June 2012,Unknown,The company lost an estimated £800m ($1.2 billion) as a result of the attack
+883,Unknown,high-value personal and corporate accounts,automated versions of SpyEye and Zeus Trojans,June 2012,fraud campaign,bypassed two-factor authentication
+884,Unknown,U.S. aerospace industry experts attending the 2013 IEEE Aerospace Conference,Phishing campaign,June 2012,Unknown,Unknown
+885,PLA Unit 61398,Digital Bond,spear phishing attack,June 2012,,
+886,Unknown hackers from China,23 gas pipeline companies,Unknown,December 2011 to June 2012,Steal information for sabotage purposes,DHS reported the attack
+887,Unknown,Users of the proxy tool Simurgh,Keylogger Trojan,May 2012,"To collect user name, keystrokes, and program use","The installer for the proxy tool Simurgh, which anonymizes net use and is popular in countries such as Iran and Syria to circumvent government internet controls, also installs a keylogger Trojan"
+888,Unknown,Iranian Oil Ministry,Flame,May 2012,Espionage,"The toolkit was also discovered in other Middle Eastern countries, including Israel, Syria, and Sudan, and other nations around the world."
+889,Unknown,classified MOD networks,Unknown,May 2012,Unknown,UK officials told the press that there had been a small number of successful perpetrations
+890,Unknown,"Japan's Ministry of Agriculture, Forestry, and Fisheries","Searching Ministry computers for TPP documents, transferring all that were found to a single computer, and then compressing them to make them easier to send",April 2012,Exfiltration of documents on negotiations on the Trans-Pacific Partnership,"More than 3,000 documents were exfiltrated, including 20 classified documents"
+891,Unknown,Iran's oil facilities,Malware,April 2012,Unknown,"The malware was found inside the control systems of Kharg Island – Iran’s main oil exporting terminal. Equipment at Kharg Island and at other Iranian oil plants was disconnected from the internet as a precaution. Iran reported that oil production was not affected, but the websites of the Iranian oil ministry and national oil company were forced offline and data about users of the sites was taken as a result of the attack."
+892,Unknown,U.S. gas pipelines,spear phishing,March 2012,Unknown,The attack was described as a sophisticated spear phishing campaign emanating from a single source.
+893,Unknown,112 government websites of India,Website defacement,December 2011 to February 2012,Unknown,Many of the hacks appeared to originate in Pakistan
+894,Iran,BBC Persian Language Service,sophisticated cyber-attack,March 2012,disrupt the BBC Persian Language Service,The attack coincided with efforts to jam two BBC satellite feeds to Iran
+895,Unknown,NASA,"APT attacks, stealing user credentials, using China-based IP",March 2012,Gain unauthorized access to NASA systems,Intruders gained full access to key JPL systems and sensitive user accounts
+896,Luckycat,"U.S.-based activists and organizations, Indian and Japanese military research, Tibetan activists",cyber campaign,March 2012,Unknown,The campaign was uncovered by Trend Micro
+897,Chinese hackers,technologies onboard F-35 Joint Strike Fighters,Unknown,February 2012,Unknown,The stolen information was classified
+898,Hackers working on behalf of the Qatar government,former advisor to FIFA President Sepp Blatter,phishing emails,January 2012,espionage operation,
+899,Unidentified hackers,president of the United States Soccer Federation Sunil Gulati,unspecified,unspecified,espionage operation,
+900,People’s Liberation Army,U.S. Chamber of Commerce computer networks,Unknown,December 2011,Unknown,"The Hackers had access to everything in Commerce’s computers, including member company communications and industry positions on U.S. trade policy."
+901,Unknown,10 major Norwegian defense and energy companies,Email phishing scheme,November 2011,Companies were involved in large-scale contract negotiations,"Hackers gained access to confidential documents, industrial data, usernames and passwords"
+902,Chinese hackers,two satellites belonging to NASA and USGS,interfered,November 2011,Unknown,Unknown
+903,Unknown,Apple computers belonging to European Commission officials,Unknown,November 2011,Unknown,The attack occurred at an Internet Governance Forum (IGF) meeting in Azerbaijan.
+904,Unknown,"Networks of 48 companies in the chemical, defense, and other industries",Unknown,October 2011,Looking for intellectual property,"Some of the attacks are attributed to computers in Hebei, China"
+905,unknown source,ground control stations for US Air Force UAVs,keylogger malware,September 2011,Unknown,"The US did not lose control of any drone nor does it appear that any data was exfiltrated, but the malware was persistent and took several attempts to remove."
+906,Unknown,Australia’s Defense Signals Directorate,Unknown,September 2011,Unknown,"defense networks are attacked more than 30 times a day, with the number of attacks increasing by more than 350 percent by 2009."
+907,Unknown attackers,Dutch certificate authority,Issuing fraudulent certificates,September 2011,"To pretend to be a secure website, intercept e-mail, or install malicious software",This was the second hack of a certificate authority in 2011
+908,Unknown,Email and documents from 480 members of the Japanese Diet and lawmakers and their staff,Phishing attack implanted a Trojan,August 2011,Unknown,The hijacked machines communicated with a server in China and the attackers included Chinese characters in their code
+909,Unknown,Mitsubishi Heavy Industries and twenty other Japanese defense and high tech firms,Email with a malicious attachment,August 2011,Extract classified defense information,The contents of the malicious attachment were the same as a legitimate message sent 10 hours earlier
+910,Chinese hackers,"72 entities, including multiple U.S. government networks",cyber-attacks,August 2011,Unknown,Unknown
+911,hackers from China,an internet portal in South Korea,penetration,July 2011,"access phone numbers, e-mail addresses, names and other data for 35 million Koreans",
+912,Unknown,Servers used by the German Bundespolizei (Federal Police) and the Bundeszollverwaltung (Federal Customs Service),Phishing attack,July 2011,Unknown,"The servers were used to locate serious criminals and terrorism suspects by gathering information from GPS systems in cars and mobile phones. Following the cyberattack, the servers had to be temporarily shut down to prevent further data losses."
+913,Unknown,Department of Defense,Hacking,July 2011,Unknown,"24,000 files from the DOD were stolen"
+914,Unknown,Citibank,simple manipulation of URLs,June 2011,Unknown,"Credit card data for 360,000 of its customers were exfiltrated"
+915,a foreign government,The IMF’s networks,fraudulent emails with malware attachments,June 2011,exfiltration of data,"A large quantity of data, including documents and e-mails, were exfiltrated"
+916,Anonymous,PlayStation network,Unknown,May 2011,Unknown,Sony estimated that personal information for more than 80 million users was compromised and that the cost of the breach was over $170 million.
+917,Unknown,Oak Ridge National Laboratory,bogus emails with malware attachments,April 2011,Unknown,Two machines were infected and 'a few megabytes' of data were extracted before the Lab was able to cut its internet connection. Oak Ridge was the target of an intrusion in 2007.
+918,China,"Gmail accounts of prominent people, including senior U.S. officials",phishing,April 2011,Unknown,Google was the one to report the attack
+919,Unknown,"RSA’s SecureID authentication technology, Lockheed Martin’s networks",Phishing,March-April 2011,To obtain data that would compromise RSA’s SecureID authentication technology and to penetrate Lockheed Martin’s networks,The data acquired from RSA was then used in an attempt to penetrate Lockheed Martin’s networks
+920,Unknown,Small-to-medium sized U.S. businesses,Compromising online banking credentials,March 2010 - April 2011,Initiate wire transfers to Chinese economic and trade companies,The total attempted fraud amounts to approximately $20 million; the actual victim losses are $11 million
+921,Unknown,French government computer networks,Unknown,March 2011,Search for sensitive information on upcoming G-20 meetings,Unknown
+922,Unknown,The European Commission and EU’s External Action Service,Espionage,March 2011,Interest in documents related to the G20 summit being held in Paris that year,The attack happened just before a major EU summit
+923,possible Chinese involvement,car manufacturer Renault,hack,January 2011,to obtain technologies related to electric vehicles,French intelligence services are investigating
+924,China,"Canadian government agencies including Defence Research and Development Canada, Finance Department and Treasury Board",cyberattack,January 2011,Unknown,"The attack forced the Finance Department and Treasury Board, Canada’s main economic agencies, to disconnect from the internet"
+925,Unknown,South Africa's Postbank,Unknown,January 2011,Financial gain,Hackers extracted $6.7 million over the New Year's Holiday
+926,Unknown,European Union's carbon trading market,Unknown,January 2011,Steal more than $7 million in credits,The attack forced the market to shut down temporarily
+927,Pakistani hackers,India’s Central Bureau of Investigation (CBI) website (cbi.nic.in),hacking and data erasure,December 2010,Unknown,"Sensitive CBI data, stored on computer not easily accessible from the Internet, was unaffected"
+928,a foreign power,"Foreign Ministry, a defense contractor and other British interests",pretending to come from the White House,December 2010,Unknown,The attacks evaded defenses by pretending to come from the White House
+929,Unknown,Australia’s Defence Signals Directorate,Cyberattacks,October 2010,Unknown,There had been 2400 'electronic security incidents' on Defence networks in 2009 and 5551 incidents between January and August 2010
+930,Unknown,Five banks in the US and UK,Zeus malware,October 2010,Steal money,"Zeus uses links in emails to steal account information, which the hackers then use to transfer money into bank accounts they control. 100 “mules”, or low end criminals, were arrested for opening bank accounts under false names into which the hackers transferred stolen money."
+931,Unknown,"Siemens Industrial Control Systems in Iran, Indonesia, and elsewhere","Stuxnet, a complex piece of malware",October 2010,Speculated to be a government cyber weapon aimed at the Iranian nuclear program,Stuxnet was discovered leading to speculation that it was a government cyber weapon
+932,unknown external group,"Public facing networks run by NASDAQ, Directors Desk",compromised,October 2010,Unknown,NASDAQ says it is unsure how far hackers might have penetrated into their network
+933,Russian intelligence agent,Microsoft,Infiltration (working as a software tester),July 2010,Espionage,The agent was allegedly named Alexey Karetnikov
+934,Unknown,"Government of Canada, Canadian universities, private companies and individual customer networks",Remotely operated attacks,May 2010,Conduct espionage,"These attacks are virtually un-attributable, productive, secure and low-risk"
+935,Chinese hackers,U.S. Chamber of Commerce,breached the computer network,May 2010,stole information related to U.S. industries,
+936,Chinese telecommunications firm,"37,000 networks including more than 8,000 U.S. networks, 8,500 Chinese networks, 1,100 Australian networks and 230 French networks",Transmission of erroneous routing information,April 2010,Unknown,The incident lasted 20 minutes and caused internet traffic to be misrouted through China
+937,Chinese hackers,classified files at the Indian Defence Ministry and Indian embassies around the world,Unknown,April 2010,Unknown,gaining access to Indian missile and armament systems
+938,Unknown hackers,Latvian government officials' tax records,Unknown,March 2010,Creating political turmoil,The hackers posted the real incomes of Latvian government officials
+939,Unknown,the networks of the legal defense team for Rio Tinto executives,Unknown,March 2010,to gain inside information on the trial defense strategy,Australian authorities said there were more than 200 attempts to hack
+940,Unknown,Vietnamese computer users,"Malware, Distributed Denial of Service attacks",March 2010,"Spying, Suppression of political dissent","The malware was not especially sophisticated and was used to spy on users who downloaded Vietnamese keyboard language software. It also launched attacks against blogs containing political dissent, specifically, opposition to bauxite mining efforts in Vietnam."
+941,Russia and China,NATO and the EU networks,cyberattacks,March 2010,Unknown,The number of cyberattacks against NATO and the EU networks had increased significantly over the past 12 months
+942,Unknown,Intel,Exploiting vulnerabilities in Internet Explorer software,January 2010,Unknown,"Intel experienced a cyberattack at about the same time that Google, Adobe, and others were attacked. However, there was no intellectual property or financial loss."
+943,Iranian Cyber Army,Baidu,Users were redirected to a page showing an Iranian political message,January 2010,Political message,"Previously, the “Iranian Cyber Army” had hacked into Twitter in December with a similar message"
+944,China,Office of India’s National Security Adviser and other government departments,Unknown,January 2010,Unknown,The Prime Minister’s office later denied that their computers had been hacked. This was not the first attempt to penetrate Indian government computers.
+945,China-based hackers,Morgan Stanley,break-in to its network,January 2010,Unknown,The same group also attacked Google Inc.’s computers in December 2009
+946,China,Google and more than 30 other US companies,sophisticated attack,January 2010,"collect technology, gain access to activist Gmail accounts and to Google’s Gaea password management system",Google announced that a sophisticated attack had penetrated its networks
+947,People’s Liberation Army and the Ministry of Public Security,UK businessmen,Malware through 'gifts' like cameras and memory sticks,January 2010,To gain remote access to users’ computers,The UK’s MI5 Security Service warned about this attack
+948,The PLA,Civilian Reserve Air Fleet (CRAF) contractor,infiltration,2010,"stealing documents, flight details, credentials and passwords for encrypted email",
+949,Iraqi insurgents,U.S military UAVs,using laptops and $24.99 file sharing software,December 2009,allowing them to see what the UAV had viewed,
+950,Unknown,a major U.S. bank,Unknown,December 2009,Unknown,The bank lost tens of millions of dollars
+951,Unknown,University of East Anglia's Climatic Research Unit,Email hacking,November 2009,To undermine the Copenhagen climate talks,"The vice-chairman of the United Nations’ Intergovernmental Panel on Climate Change, Jean-Pascal van Ypersele, ascribed the hacking to Russia"
+952,Ehud Tenenbaum,U.S. banks,Hacking into DOD computers,August 2009,Stealing $10 million,"Tenenbaum was known for hacking into DOD computers in 1998, which resulted in a sentence of six months of community service from an Israeli court."
+953,Albert Gonzalez and unidentified Russian or Ukrainian colleagues,computer systems of five major companies,hacking,August 2009,steal more than 130 million credit and debit cards,This was the largest hacking and identity theft crime in U.S. history
+954,China and Russia,German companies,espionage efforts and Internet attacks,June 2009,Unknown,German Interior Minister Wolfgang Schaeuble noted the increase in attacks when presenting the Interior Ministry's 2008 security report
+955,Unknown,The John Hopkins University’s Applied Physics Laboratory,Unknown,June 2009,Unknown,The laboratory does classified research for the Department of Defense and NASA
+956,unknown intruders,The Homeland Security Information Network (HSIN),getting into the HSIN account of a federal employee or contractor,May 2009,Unknown,"The bulk of the data obtained was federal, but some state information was also accessed"
+957,Unknown,Merrick Bank,Unknown,May 2009,Unknown,Merrick Bank claimed it lost $16 million after hackers compromised as many as 40 million credit card accounts.
+958,Chinese hackers,South Korea’s Finance Ministry,virus attached to e-mails claiming to be from trusted individuals,April 2009,,
+959,hacker from Taiwan,Chinese State Council computer,Unknown,April 2009,Unknown,The computer contained drafts of Prime Minister Wen Jiabao's report to the National Peoples Congress
+960,unknown foreign intruders,"U.S. power grid, F-35 databases",cyberattack,April 2009,Unknown,Wall Street Journal articles highlighted the increasing vulnerability of the U.S. power grid to cyberattack
+961,Unknown,"Plans for Marine Corps 1, the new presidential helicopter",File-sharing network,March 2009,Unknown,The plans were found in Iran
+962,China,government networks of 103 countries,computer espionage system,March 2009,Unknown,Canadian researchers found the system
+963,Unknown,German government,Offering a free version of the new Microsoft operating system that installs Trojans,March 2009,Unknown,The hackers were offering a free version of the new Microsoft operating system that installs Trojans
+964,Chinese hackers,Office of Senator Bill Nelson in Florida,stole information,March 2009,Unknown,Unknown
+965,Chinese hackers,Coca-Cola Co.,infiltrated computer networks,March 2009,"stole trade secret information, including information related to the attempted $2.4 billion acquisition of Huiyuan Juice Group",
+966,Unknown,French naval aircraft planes,Confickr virus,February 2009,Unknown,Naval officials suspected someone in the Navy had used an infected USB key
+967,Unknown,600 computers at India’s Ministry of External Affairs,Unknown,February 2009,Unknown,Unknown
+968,Unknown,FAA computer systems,Hacking,February 2009,Intentional disruption of commercial air traffic,Increased use by FAA of IP-based networks also increases the risk of the attack
+969,Pakistani hackers,popular music download sites used by Indians,placed malware,January 2009,preparation for cyberattacks,Indian Home Ministry officials warned
+970,a criminal organization from the former Soviet Union,"Israel’s internet infrastructure, government websites","attack executed by at least 5,000,000 computers",January 2009,military offensive in the Gaza Strip,Israeli officials believed the attack was paid for by Hamas or Hezbollah
+971,Chinese hackers,Britain’s MPs,e-mails apparently sent by the European Parliament,2008,to implant viruses,
+972,unknown foreign intruders,CSIS,Unknown,December 2008,Assumption that some CSIS staff would go into the new administration and interest in reading their emails beforehand,Even tiny CSIS was targeted for hacking
+973,Maksym Yastremskiy,Retail giant TJX,Unknown,December 2008,Financial gain,The hacker is said to have made $11 million from the hack
+974,unknown foreign intruders,Classified networks at DOD and CENTCOM,Unknown,November 2008,Unknown,It took several days to dislodge the intruders and re-secure the networks
+975,Unknown,Royal Bank of Scotland’s WorldPay,Breaching networks and cloning ATM cards,November 2008,Financial gain,The hackers were able to withdraw over $9 million dollars from machines in 49 cities
+976,Chinese hackers,computer networks of three major oil companies,infiltration,November 2008,steal trade secret information,
+977,Chinese hackers,networks of Barack Obama and John McCain’s presidential campaigns,infiltration and exfiltration,November 2008,information about future policy agendas,
+978,Chinese hackers,the computer network of the White House,infiltration,November 2008,obtain emails between senior government officials,
+979,Unknown,Credit card readers in UK supermarkets,Supply chain attack with a wireless device,October 2008,Financial gain,"The device could be instructed to collect only certain kinds of cards (such as gold cards), or to go dormant to evade detection."
+980,unknown foreign intruders,Computer networks in Georgia,hacking,August 2008,put political pressure on the Georgian government,The hacks were coordinated with Russian military
+981,Unknown,"Marathon Oil, ExxonMobil, and ConocoPhillips",Unknown,Summer 2008,Unknown,"The companies lost data detailing the quantity, value, and location of oil discoveries around the world. One company put the losses in the millions."
+982,unknown foreign intruders,databases of both Republican and Democratic presidential campaigns,hacked and downloaded,Summer 2008,Unknown,Both Republican and Democratic campaigns were targeted
+983,unknown foreign intruders,networks of several Congressional offices,hacking,June 2008,Unknown,Some infiltrations involved offices with an interest in human rights in Tibet
+984,China,India’s official networks,scanning and mapping,May 2008,to gain access to content in order to plan how to disable or disrupt networks during a conflict,The Times of India reported that an Indian official accused China of hacking into government computers
+985,China,Belgian governmental computer networks,Unknown,May 2008,Unknown,Belgium’s Justice Minister accused China of the hacking
+986,Germany’s BND,Afghanistan's Commerce Minister and Ministry of Commerce and Industry networks,gaining access to internal email accounts and exfiltrating documents,April 2008,,
+987,a Shanghai-based hacker group linked to the People’s Liberation Army’s Third Department,an unspecified (U.S. government) agency,"stole “50 megabytes of email messages and attached documents, as well as a complete list of usernames and passwords",April – October 2008,Unknown,The information about the attack was made public by WikiLeaks
+988,Unknown,"American, European, and Japanese companies",criminal and industrial espionage in cyberspace,March 2008,Stealing intellectual property and business information,Details cannot be provided in an unclassified setting
+989,China,Korean Embassy and Korea military networks,Unknown,March 2008,Unknown,Unknown
+990,Unknown,Power supply for four foreign cities,Unknown,January 2008,Disrupt or threaten to disrupt the power supply,The CIA was aware of these incidents
+991,Russian and Chinese state organizations,300 business firms,"sophisticated technical attacks, using the internet to penetrate computer networks",November 2007,"steal our sensitive technology on civilian and military projects, and trying to obtain political and economic intelligence at our expense","Jonathan Evans, the head of Britain’s Security Service (MI5), warned of the increased online threat"
+992,unknown outsiders,Oak Ridge National Labs,email with an attachment,October 2007,Unknown,More than a thousand staffers received the email
+993,"foreign hackers, 42% from Taiwan and 25% from United Sates","Chinese key areas, China Aerospace Science & Industry Corporation (CASIC) Intranet Network",spywares,October 2007,stealing information,spywares were found in the computers of classified departments and corporate leaders
+994,China’s People’s Liberation Army,the network of the Foreign Office and other key departments,penetrated the network,September 2007,Unknown,British authorities reported the attack
+995,Unknown,Contractors employed by DHS and DOD,Hacking networks as backdoors into agency systems,September 2007,Unknown,Unknown
+996,groups from China,information systems in France,infiltration,September 2007,Unknown,"Francis Delon, Secretary-General of National Defence in France, stated the infiltration"
+997,Israel,Syrian air defense networks,bombing,September 2007,disruption of Syrian air defense during the bombing of an alleged Syrian nuclear facility,Israel caused some collateral damage to its own domestic networks during the attack
+998,Unknown,"British Security Service, the French Prime Minister’s Office and the Office of German Chancellor Angela Merkel",Intrusion,August 2007,Unknown,Angela Merkel raised the matter with China’s President
+999,unknown foreign intruders,The Secretary of Defense’s unclassified email account,Unknown,June 2007,part of a larger series of attacks to access and exploit DOD networks,Unknown
+1000,unknown foreign intruders,Estonian government networks,denial of service attack,May 2007,most likely at the behest of the Russian government,"These were more like cyber riots than crippling attacks, and the Estonians responded very well; however, they created a wave of fear in cyber dependent countries like the U.S."
+1001,unknown foreign intruders,The National Defense University,spyware,May 2007,Unknown,The National Defense University had to take its email systems offline because of the hack
+1002,unknown foreign intruders,The Department of Commerce's Bureau of Industrial Security’s networks,Unknown,April 2007,Unknown,This Commerce Bureau reviews confidential information on high tech exports
+1003,Chinese hackers,Pentagon’s Joint Strike Fighter project,breached,2007,stole data related to the F-35 fighter jet,
+1004,Chinese hackers,House of Commons computer system,shutting down,2006,Unknown,Unknown
+1005,unknown foreign intruders,NASA,emails with attachments,December 2006,obtain plans for the latest U.S. space launch vehicles,NASA was forced to block emails with attachments before shuttle launches out of fear they would be hacked
+1006,Unknown,U.S. Naval War College networks,Unknown,November 2006,Unknown,The attack resulted in a two week shutdown at one institution while infected machines are restored.
+1007,China,NIPRNet (the unclassified military network),downloaded,August 2006,Unknown,10 to 20 terabytes of data were downloaded
+1008,unknown foreign intruders,The Department of State’s networks,hacking and downloading information,May 2006,Unknown,"If Chinese or Russian spies had backed a truck up to the State Department, smashed the glass doors, tied up the guards and spent the night carting off file cabinets, it would constitute an act of war. But when it happens in cyberspace, we barely notice."
+1009,Chinese hackers,NASA networks managed by Lockheed Martin and Boeing,infiltration and exfiltration,April 2005,exfiltrate information about the Space Shuttle Discovery program,
+1010,Chinese hackers,"U.S. Department of Defense networks, U.S. defense contractors, Army Information Systems Engineering Command, the Defense Information Systems Agency, the Naval Ocean Systems Center, and the U.S. Army Space and Strategic Defense installation",infiltration,2005,Unknown,The operation was known as 'Titan Rain.'
+1011,Chinese hackers,Naval Air Weapons Station China Lake,exfiltration,2003,Unknown,"The hackers were able to steal national security information, including nuclear weapons test and design data, and stealth aircraft data."
