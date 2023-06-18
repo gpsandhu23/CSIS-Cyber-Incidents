@@ -1,3 +1,4 @@
+import numpy as np
 import streamlit as st
 import pandas as pd
 import pandas_profiling
@@ -36,6 +37,8 @@ st.warning("Experiment to convert [Significant Cyber Incidents](https://www.csis
 df = pd.read_csv('parsed_incidents.csv')
 # Remove the index column from the csv for better visualization
 del df[df.columns[0]]
+
+df = df.replace('', np.nan)
 
 # The csv had some inconsistency with NaN and Unknown. Make it consistent
 df = df.fillna('Unknown')
