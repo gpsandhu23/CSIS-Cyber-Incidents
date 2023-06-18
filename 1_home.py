@@ -30,7 +30,7 @@ setup_page()
 customize_css()
 
 st.title('Significant Cyber Incidents - CSIS')
-st.warning("Tried to convert [Significant Cyber Incidents](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents) data from CSIS into parsable format. Likely not perfect")
+st.warning("Experiment to convert [Significant Cyber Incidents](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents) data from CSIS into parsable format. Likely not perfect")
 
 # Load the file as a dataframe
 df = pd.read_csv('parsed_incidents.csv')
