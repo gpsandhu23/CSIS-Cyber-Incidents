@@ -32,10 +32,12 @@ customize_css()
 st.title('Significant Cyber Incidents - CSIS')
 st.warning("Tried to convert [Significant Cyber Incidents](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents) data from CSIS into parsable format. Likely not perfect")
 
+# Load the file as a dataframe
 df = pd.read_csv('parsed_incidents.csv')
+# Remove the index column from the csv for better visualization
 del df[df.columns[0]]
 st.dataframe(df, hide_index=True)
 
-# Print the profile report
+# Print the profile report - https://pypi.org/project/streamlit-pandas-profiling/
 pr = df.profile_report()
 st_profile_report(pr)
