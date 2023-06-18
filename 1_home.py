@@ -36,6 +36,11 @@ st.warning("Experiment to convert [Significant Cyber Incidents](https://www.csis
 df = pd.read_csv('parsed_incidents.csv')
 # Remove the index column from the csv for better visualization
 del df[df.columns[0]]
+
+# The csv had some inconsistency with NaN and Unknown. Make it consistent
+df = df.fillna('Unknown')
+
+# Print the dataframe
 st.dataframe(df, hide_index=True)
 
 # Print the profile report - https://pypi.org/project/streamlit-pandas-profiling/
